@@ -1,0 +1,31 @@
+Mina (Coin features)
+-Social Media
+-Mainstream media
+-CNN
+-Bitcointalk.com
+	-# of posts
+	-sent
+
+Eric (ICO features)
+-Twitter
+-Facebook
+-# of Exchanges
+	Coin Market Cap
+-Mainstream
+-Coin News Network
+
+
+Marc (ICO features)
+-Funding Goal
+-Start Date
+-Length of ICO
+-ICObench.com
+
+
+Christian (Coin features)
+-Block Time
+-Block Rewards
+-Start Date
+-Bitcoin ANN
+-Algo
+-Commodity HW or ASIC
