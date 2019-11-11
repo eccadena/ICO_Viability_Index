@@ -7,12 +7,12 @@ Mina (Coin features)
 	-sent
 
 Eric (ICO features)
--Twitter
--Facebook
+-Twitter 
+-Facebook (API wont let us call or search posts)
 -# of Exchanges
-	Coin Market Cap
--Mainstream
--Coin News Network
+	Coin Market Cap (Need target for dead coins)
+-Mainstream (Need target for dead coins)
+-Coin News Network (Need target for dead coins)
 
 
 Marc (ICO features)
