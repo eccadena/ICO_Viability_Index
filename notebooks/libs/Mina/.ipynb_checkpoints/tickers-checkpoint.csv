@@ -1,0 +1,744 @@
+Ticker,Name,Description,Price(USD),Start,End,ROI(Pct),Timezone,Duration
+REP,Augur,Augur is a decentralized prediction market,11.4,2015-08-17 00:00:00,2015-10-01 00:00:00,18.6608,UTC+0,45 days 00:00:00.000000000
+LSK,Lisk,It is a cryptocurrency and decentralized application platform,0.75,2016-02-22 00:00:00,2016-03-21 00:00:00,9.0516,UTC+0,28 days 00:00:00.000000000
+DGD,Digix DAO,A Decentralized Autonomous Organization focused on goldtracking assets,12.25,2016-03-30 12:00:00,2016-03-30 12:00:00,2.7809,UTC+0,0 days 00:00:00.000000000
+WAVES,Waves,Waves helps to make the launching and coordination of projects on blockchain very easy,0.78,2016-04-12 13:00:00,2016-05-31 13:00:00,3.1354,UTC+0,49 days 00:00:00.000000000
+STRAT,Stratis,Stratis was developed to help organisations develop their own private blockchains,0.3,2016-06-21 00:00:00,2016-07-26 00:00:00,40.4598,UTC+0,35 days 00:00:00.000000000
+XTO,Tao Network,Tao Network posits itself as a digital asset management system meant to be used by stakeholders in the music industry,0.03,2016-07-16 00:00:00,2016-08-15 00:00:00,1.8419999999999999,UTC+0,30 days 00:00:00.000000000
+INCNT,Incent,Incent is a blockchain based loyalty program for traders especially retailers,0.15,2016-09-01 00:00:00,2016-09-01 00:00:00,2.1277,UTC+0,0 days 00:00:00.000000000
+NEO,NEO,NEO is a China based smart contract Blockchain project that aims to revolutionize the way ecommerce operates,12.98,2016-08-08 00:00:00,2016-09-07 00:00:00,80.6559,UTC+0,30 days 00:00:00.000000000
+BLOCKPAY,BlockPay,This is a retail platform that allows multicryptocurrency payment,0.06,2016-08-15 00:00:00,2016-09-15 00:00:00,-0.5009,UTC+0,31 days 00:00:00.000000000
+1ST,FirstBlood,FirstBlood is a eSports matches and betting project,0.1,2016-09-25 00:00:00,2016-09-26 12:00:00,0.3743,UTC+0,1 days 12:00:00.000000000
+ICN,Iconomi,The Iconomi platform helps users with simple methods to enter the growing distributed economy,0.19,2016-08-25 00:00:00,2016-09-26 12:00:00,0.6067,UTC+0,32 days 12:00:00.000000000
+LKK,Lykke,Global market space based on blockchain,0.01,2016-10-09 06:00:00,2016-10-09 06:00:00,-0.8284999999999999,UTC+0,0 days 00:00:00.000000000
+AMP,Synereo,Synereo is a decentralized and distributed social network,0.0,2016-09-18 00:00:00,2016-10-18 12:00:00,-0.988,UTC+0,30 days 12:00:00.000000000
+SNGLS,SingularDTV,This is a film and television studio and also a distribution portal based on blockchain technology,0.01,2016-10-05 00:00:00,2016-10-29 12:00:00,-0.33549999999999996,UTC+0,24 days 12:00:00.000000000
+NXC,Beyond The Void,Video Game in Real Time,0.0,2016-10-01 06:00:00,2016-11-01 13:00:00,0.0,UTC+0,31 days 07:00:00.000000000
+DCT,Decent,Decent is a content distribution project,0.03,2016-10-10 00:00:00,2016-11-10 12:00:00,-0.7451000000000001,UTC+0,31 days 12:00:00.000000000
+GNT,Golem,The Golem platform enables personal computers to perform functions traditionally reserved for servers,0.05,2016-10-13 00:00:00,2016-11-13 00:00:00,-0.5653,UTC+0,31 days 00:00:00.000000000
+ARK,Ark,The Ark project aims to make cryptocurrency adoption mainstream as quickly as possible,0.22,2016-11-07 00:00:00,2016-12-12 00:00:00,21.45,UTC+0,35 days 00:00:00.000000000
+VSLICE,vDice.io,Betting Game based on the Ethereum Blockchain,0.0,2016-11-15 00:00:00,2016-12-15 02:00:00,0.0,UTC+0,30 days 02:00:00.000000000
+KMD,Komodo,Komodo is a decentralized ICO platform,0.93,2016-10-15 12:00:00,2016-12-16 12:00:00,41.312,UTC+0,62 days 00:00:00.000000000
+Golos,Golos,Golos is open source technology bringing the power of voice media to blockchain,0.0,2016-11-22 12:00:00,2016-12-22 12:00:00,0.0,UTC+0,30 days 00:00:00.000000000
+CREA,CreativeCoin,CreativeCoin for the registration and distribution of creative works and rights,0.03,2017-03-15 00:00:00,2017-01-05 00:00:00,0.0203,UTC+0,-69 days +00:00:00.000000000
+WINGS,Wings,A decentralized platform for the creation management and interlinking of DAOs,0.03,2016-11-18 00:00:00,2017-01-06 00:00:00,-0.0146,UTC+0,49 days 00:00:00.000000000
+TKS,Tokes,Tokes is a digital currency project for the legalization of the cannabis industry,0.06,2016-12-12 12:00:00,2017-01-16 12:00:00,-0.6545000000000001,UTC+0,35 days 00:00:00.000000000
+TIME,ChronoBank,Time based currencies on multiple blockchains,1.61,2016-12-15 00:00:00,2017-02-15 13:00:00,-0.9464,UTC+0,62 days 13:00:00.000000000
+QTUM,Qtum,A smart contract platform for PoS transactions,2.28,2017-03-12 00:00:00,2017-03-17 00:00:00,14.1919,UTC+0,5 days 00:00:00.000000000
+EDG,Edgeless,Edgeless solves Casino transparency problems through the use of the Ethereum blockchain,0.01,2017-02-28 00:00:00,2017-03-21 00:00:00,-0.5114,UTC+0,21 days 00:00:00.000000000
+RLC,iEx.ec,IeXec is a fully decentralized cloud based computing system based on Blockchain,0.75,2017-04-19 00:00:00,2017-04-19 23:59:59,1.9935,UTC+0,0 days 23:59:59.000000000
+ETT,EncryptoTel,Encrypto Telecom offers solutions for secure communication over the blockchain,0.0,2017-04-24 00:00:00,2017-04-24 00:00:00,-0.9433,UTC+0,0 days 00:00:00.000000000
+GNO,Gnosis,it is an Ethereumbased prediction market that works using crowdsourcing methods,15.83,2017-04-24 00:00:00,2017-04-24 11:59:59,-0.4939,UTC+0,0 days 11:59:59.000000000
+MGO,MobileGo,MobileGoGameCredit is a proprietary payment gateway that allows gamers to use the tokens to buy ingame content,0.02,2017-04-25 00:00:00,2017-04-25 00:00:00,-0.9704999999999999,UTC+0,0 days 00:00:00.000000000
+HMQ,Humaniq,Decentralized Banking based on blockchain,0.01,2017-04-06 00:00:00,2017-04-27 00:00:00,0.5243,UTC+0,21 days 00:00:00.000000000
+LUN,Lunyr,The future of knowledge sharing that lets you earn rewards for what you know,1.01,2017-03-29 12:00:00,2017-04-27 12:00:00,-0.3714,UTC+0,29 days 00:00:00.000000000
+TAAS,TaaS,TaaS is a tokenized closedend fund specifically for blockchainbased assets,0.85,2017-03-27 12:00:00,2017-04-27 12:00:00,-0.1548,UTC+0,31 days 00:00:00.000000000
+BPL,BlockPool,BlockPool is a B2B blockchain solution for many industries Fintech Media  more ,0.02,2017-05-01 00:00:00,2017-05-01 00:00:00,-0.9185,UTC+0,0 days 00:00:00.000000000
+TKN,TokenCard,Token Market has been setup as the platform for the future financial era,0.36,2017-05-02 12:00:00,2017-05-02 20:00:00,-0.33909999999999996,UTC+0,0 days 08:00:00.000000000
+ECOB,EcoBit,EcoBit is taking charge in the fight to make the planet a safe and healthier place for us all to live in,0.02,2017-05-09 00:00:00,2017-05-09 00:00:00,1.327,UTC+0,0 days 00:00:00.000000000
+BOS,BOScoin,BOScoin is a selfevolving cryptocurrency platform,0.0,2017-05-10 12:00:00,2017-05-10 12:00:00,-0.8883,UTC+0,0 days 00:00:00.000000000
+BCAP,Blockchain Capital,Blockchain Capital is a venture capital firm investing in blockchain enterprises,1.93,2017-04-10 12:00:00,2017-05-10 12:00:00,0.929,UTC+0,30 days 00:00:00.000000000
+ZRC,ZrCoin,ZrCoin is a blockchain project for investing in the production of an indemand industrial material,2.43,2017-05-11 00:00:00,2017-05-11 00:00:00,0.7364,UTC+0,0 days 00:00:00.000000000
+AE,Aeternity,Aeternity is a new smart contract blockchain that interfaces with IoT FinTech  more,0.24,2017-05-12 13:05:00,2017-05-12 13:05:00,0.222,UTC+0,0 days 00:00:00.000000000
+ETB,Ethbits,It is an easytouse secure cryptocurrency with an organization that has a futureoriented mindset,0.02,2017-04-15 12:00:00,2017-05-13 12:00:00,-0.9777,UTC+0,28 days 00:00:00.000000000
+PPY,Peerplays,Peerplays is a provably fair blockchainbased gaming platform,0.49,2017-02-26 12:00:00,2017-05-14 12:00:00,-0.8942,UTC+0,77 days 00:00:00.000000000
+ANT,Aragon,The Aragon platform lets a whole organization operate with the infrastracture of the blockchain technology,0.7,2017-05-17 16:00:00,2017-05-17 19:00:00,-0.2245,UTC+0,0 days 03:00:00.000000000
+MCO,Monaco,Monaco is creating a cryptocurrency card with extra affordable exchange rates ,4.43,2017-05-18 09:30:00,2017-05-18 09:30:00,0.6777,UTC+0,0 days 00:00:00.000000000
+SJCX,Storj,Storj is a platform allows users to store data in a secure and decentralized manner,0.06,2017-05-19 00:00:00,2017-05-19 00:00:00,-0.7903,UTC+0,0 days 00:00:00.000000000
+CVCOIN,Crypviser,Crypviser is an encrypted network for business and social on the Blockchain technology,0.06,2017-05-20 00:00:00,2017-05-20 00:00:00,-0.8442000000000001,UTC+0,0 days 00:00:00.000000000
+QRL,Quantum RL ,The Quantum Resistant Ledger QRL is new technology which is resistant to hacking by quantum computers,0.14,2017-05-01 12:00:00,2017-05-24 12:00:00,1.15,UTC+0,23 days 00:00:00.000000000
+PING,CryptoPing,CryptoPing is a real time altcoins trading intelligence chatbot as a service,0.06,2017-05-25 00:00:00,2017-05-25 00:00:00,-0.802,UTC+0,0 days 00:00:00.000000000
+ADL,Adelphoi,Adel is a selfsustaining cryptocurrency system,0.0,2017-05-01 12:00:00,2017-05-25 12:00:00,-0.8637,UTC+0,24 days 00:00:00.000000000
+VERI,Veritaseum,Veritaseum is a smart contractsbased peertopeer wallet interface,17.16,2017-04-25 12:00:00,2017-05-26 12:00:00,0.43,UTC+0,31 days 00:00:00.000000000
+MYST,Mysterium,Mysterium is an open sourced network that enables anyone to rent out their unused network traffic,0.05,2017-05-30 13:00:00,2017-05-30 21:00:00,-0.9488,UTC+0,0 days 08:00:00.000000000
+EON,Exscudo,Exscudos main goal is to integrate cryptocurrencies into the traditional financial,0.0,2017-04-25 00:00:00,2017-05-31 00:00:00,0.0,UTC+0,36 days 00:00:00.000000000
+PTOY,Patientory,Patientory is a distributed electronic medical record storage computing platform on the blockchain ,0.01,2017-05-31 00:00:00,2017-05-31 00:00:00,-0.9518000000000001,UTC+0,0 days 00:00:00.000000000
+BAT,Basic Attention Token,Basic Attention Token is bringing blockchain technology to digital advertising,0.25,2017-05-31 12:00:00,2017-05-31 12:00:00,-0.318,UTC+0,0 days 00:00:00.000000000
+WGR,Wagerr,Wagerr is a decentralized sportsbook that changes the way the world bets on sports,0.07,2017-06-01 00:00:00,2017-06-01 00:00:00,0.18960000000000002,UTC+0,0 days 00:00:00.000000000
+NVST,NVO,NVO is building a crossplatform modular decentralized exchange,0.45,2017-06-01 00:00:00,2017-06-01 00:00:00,0.652,UTC+0,0 days 00:00:00.000000000
+XID,Sphre,SphreAir is a smart contract based platform for the secure management and monetisation of digital identities,0.05,2017-06-01 00:00:00,2017-06-01 00:00:00,-0.7408,UTC+0,0 days 00:00:00.000000000
+DRP,Dcorp,Dcorp is an autonomous organization system based on a smartcontract blockchain solution,0.25,2017-06-01 00:00:00,2017-06-01 00:00:00,-0.6731999999999999,UTC+0,0 days 00:00:00.000000000
+WTT,GigaWatt,Giga Watt facilitys distinctive infrastructure consists of numerous independent mining units ,0.03,2017-06-02 00:00:00,2017-06-02 00:00:00,-0.9722,UTC+0,0 days 00:00:00.000000000
+VSM,Voise,A platform that levels the playing field for all musicians,6.54,2017-05-06 00:00:00,2017-06-06 00:00:00,2.6938,UTC+0,31 days 00:00:00.000000000
+OMG,Omise GO,Omise GO is a blockchain wallet solution built on the Ethereum platform for payments rewards points and much more,1.0,2017-06-07 00:00:00,2017-06-07 00:05:00,2.633,UTC+0,0 days 00:05:00.000000000
+BNT,Bancor,The Bancor protocol allows anyone to easily create completely liquid smart tokens,0.32,2017-06-12 00:00:00,2017-06-12 00:00:00,-0.9168999999999999,UTC+0,0 days 00:00:00.000000000
+FYN,Katalyse,FundYourselfNow is a platform that will allow project creators raise funds for projects without the need of technical cryptocurrency knowledge,0.17,2017-06-13 00:00:00,2017-06-13 00:01:00,0.0958,UTC+0,0 days 00:01:00.000000000
+MNX,Minexcoin,MinexCoin is a global payments system based on a low volatility cryptocurrency which is a part of Minex ecosystem,0.07,2017-05-15 00:00:00,2017-06-14 00:00:00,-0.9947,UTC+0,30 days 00:00:00.000000000
+CMP,Compcoin,Compcoin is an investment system that uses AI  blockchain,12.24,2017-06-14 00:00:00,2017-06-14 00:00:00,0.02,UTC+0,0 days 00:00:00.000000000
+SNM,SONM,SONM is a decentralized worldwide fog computer for any general purpose computing from site hosting to scientific calculations,0.01,2017-06-15 00:00:00,2017-06-15 00:00:00,-0.8198000000000001,UTC+0,0 days 00:00:00.000000000
+SNT,Status,Status is a browser app and messenger gateway to a decentralized world,0.01,2017-06-17 00:00:00,2017-06-17 00:00:00,-0.6411,UTC+0,0 days 00:00:00.000000000
+21MCoin,21 Million,The first Cryptocurrencyfunded blockchain INDY TV series,0.0,2017-06-12 00:00:00,2017-06-18 00:00:00,0.0,UTC+0,6 days 00:00:00.000000000
+BETH,Beth,Beth is a closedend fund focused on applying deep learning research combined with financial expertise,0.0,2017-06-05 00:00:00,2017-06-20 00:00:00,0.0,UTC+0,15 days 00:00:00.000000000
+OGC,OneGram,Each coin in the OneGram blockchain is backed by 1 gram of 24k gold,0.0,2017-05-21 00:00:00,2017-06-20 00:00:00,0.0,UTC+0,30 days 00:00:00.000000000
+CVC,Civic,Secure access to identity verification via the blockchain,0.04,2017-06-21 00:00:00,2017-06-21 00:00:00,-0.6027,UTC+0,0 days 00:00:00.000000000
+HYBRID,Internet of Coins,Internet of Coins is a new peertopeer financial network on the blockchain,0.0,2017-03-21 00:00:00,2017-06-21 00:00:00,0.0,UTC+0,92 days 00:00:00.000000000
+PBT,Primalbase,Primalbase is an offices workspace sharing platform managed on the blockchain,821.59,2017-06-26 00:00:00,2017-06-26 00:00:00,-0.8962,UTC+0,0 days 00:00:00.000000000
+ADT,AdToken,Digital advertising powered by Ethereum,0.0,2017-06-26 12:00:00,2017-06-26 12:00:00,-0.8127,UTC+0,0 days 00:00:00.000000000
+MYB,MyBit,MyBit is a decentralized asset management project built to add an ownership layer to the internet,0.0,2017-06-27 00:00:00,2017-06-27 00:00:00,-0.9997,UTC+0,0 days 00:00:00.000000000
+BQX,Bitquence,Bitquence is making to cryptocurrency world accessible to more people and market,1.17,2017-06-28 00:00:00,2017-06-28 00:00:00,14.5703,UTC+0,0 days 00:00:00.000000000
+SAN,Santiment,Santiment will analyze crypto market trends and help cryptotraders manage risk ,0.29,2017-06-30 00:00:00,2017-06-30 00:00:00,0.2792,UTC+0,0 days 00:00:00.000000000
+CFI,Cofound.it,A VC Ecosystem based on blockchain technology,0.03,1970-01-01 00:00:00,2017-07-06 00:00:00,-0.7295999999999999,UTC+0,17353 days 00:00:00.000000000
+MTL,Metal,The Metal project aims to transform how digital money operates,0.35,2017-06-09 12:00:00,2017-07-08 12:00:00,0.9478,UTC+0,29 days 00:00:00.000000000
+IXT,InsureX,InsureX is a marketplace for insurance based on blockchain technology,0.01,2017-07-11 00:00:00,2017-07-11 00:00:00,-0.8612000000000001,UTC+0,0 days 00:00:00.000000000
+XTZ,Tezos,Smart contract platform that can evolve and in theory will never need any hard forks,1.14,2017-07-01 06:00:00,2017-07-13 15:20:00,1.8602,UTC+0,12 days 09:20:00.000000000
+PPT,Populous,Populous is a smart contract invoice system on the Blockchain which aims to bring added efficiency and accuracy to bookkeeping,0.55,2017-06-24 00:00:00,2017-07-24 00:00:00,1.1697,UTC+0,30 days 00:00:00.000000000
+PAY,TenX,TenX develops a debit card that is connected to your blockchain assets,0.07,2017-06-24 13:00:00,2017-07-24 00:00:00,-0.915,UTC+0,29 days 11:00:00.000000000
+DENT,Dent,Dent builds the global exchange for mobile data on the Blockchain and brings optimized system and platform efficiency,0.0,2017-07-12 00:00:00,2017-07-26 00:01:00,-0.5288,UTC+0,14 days 00:01:00.000000000
+DNT,district0x,This is a network that creates decentralized communities and market places,0.01,2017-07-18 00:00:00,2017-08-01 11:59:59,-0.5987,UTC+0,14 days 11:59:59.000000000
+STX,Stox,Stox is a prediction market platform for traders built on the Ethereum blockchain,0.01,2017-08-02 00:00:00,2017-08-02 00:00:00,-0.993,UTC+0,0 days 00:00:00.000000000
+CRS,Starta,Starta Capital VC Fund created the startup investing accelerator on the Waves platform,0.81,2017-07-04 00:00:00,2017-08-03 00:00:00,-0.1891,UTC+0,30 days 00:00:00.000000000
+CABS,CryptoABS,Physical assets financing platform on the Ethereum blockchain,0.0,2017-07-14 00:00:00,2017-08-04 00:00:00,0.0,UTC+0,21 days 00:00:00.000000000
+SUR,Suretly,Crowd vouching platform  allows people to earn money vouching for other people who need a loan,0.71,2017-07-11 00:00:00,2017-08-11 00:00:00,-0.9652,UTC+0,31 days 00:00:00.000000000
+HVN,Hive,Hive provides new financial liquidity to small businesses by leveraging blockchain technology ,0.0,2017-07-03 00:00:00,2017-08-14 00:00:00,-0.9045000000000001,UTC+0,42 days 00:00:00.000000000
+XCJ,CoinJob,Decentralized platform for freelancers based on Etheruem ,0.0,2017-07-14 03:00:00,2017-08-14 03:00:00,0.0,UTC+0,31 days 00:00:00.000000000
+CDT,CoinDash,CoinDash is an asset management platform for crypto investors that enables users to view other portfolios in realtime,0.01,2017-07-17 18:00:00,2017-08-17 18:00:00,-0.4978,UTC+0,31 days 00:00:00.000000000
+MANA,Decentraland,This is a a blockchain based virtual reality platform,0.03,2017-08-18 00:00:00,2017-08-18 00:00:00,0.19640000000000002,UTC+0,0 days 00:00:00.000000000
+ZRX,0x,0x is a protocol for a decentralized exchange of Ethereums ERC20 tokens and assets,0.3,2017-08-15 03:00:00,2017-08-20 03:00:00,5.231,UTC+0,5 days 00:00:00.000000000
+RVT,Rivet,Cyber security on the blockchain The Token provides proof and assurance of security on the hardware level,0.01,2017-08-10 00:00:00,2017-08-24 00:00:00,-0.9314,UTC+0,14 days 00:00:00.000000000
+ODN,Obsidian,Cryptocurrency  secure messaging platform built on the Stratis blockchain,0.0,2017-08-01 00:00:00,2017-08-26 03:00:00,-0.9818000000000001,UTC+0,25 days 03:00:00.000000000
+COR,Corion Platform,Crypto platform built on Ethereum Classic with a price controlled currency,0.12,2017-06-18 00:00:00,2017-08-27 00:00:00,-0.8833,UTC+0,70 days 00:00:00.000000000
+MPRM,iMPERIUM,iMPERIUM is a NOFEE sports betting platform built on the Ethereum network,0.0,2017-08-20 18:00:00,2017-08-27 18:00:00,-0.9998999999999999,UTC+0,7 days 00:00:00.000000000
+XAI,AICoin,Trading cryptocurrencies with artificial intelligence technology,0.05,2017-07-17 00:00:00,2017-08-28 00:00:00,0.0,UTC+0,42 days 00:00:00.000000000
+ROC,RasputinOnline Coin,The First ICO for Adult Entertainment,0.09,2017-07-20 00:00:00,2017-08-29 04:00:00,0.0,UTC+0,40 days 04:00:00.000000000
+AHT,Bowhead,Bowhead is a medical instrument powered by the blockchain technology,0.06,2017-07-30 00:00:00,2017-08-31 00:00:00,-0.9146,UTC+0,32 days 00:00:00.000000000
+ATB,ATB Coin,Financial platform for organizing investment assets on the blockchain,0.0,2017-07-12 00:00:00,2017-08-31 00:00:00,-0.9989,UTC+0,50 days 00:00:00.000000000
+MTH,Monetha,Welcome to a proficient installment answer for dealers that empowers comprehensively trustful trade Decentralized Enabled by the Ethereum blockchain,0.0,2017-08-31 13:00:00,2017-08-31 13:18:00,0.0,UTC+3,0 days 00:18:00.000000000
+BENJA,Benjacoin,Benja is a decentralized merchandise ad network ,0.01,2017-08-01 00:00:00,2017-09-01 00:00:00,0.0,UTC+0,31 days 00:00:00.000000000
+TRX,Tron,Tron is a decentralized content entertainment protocol based on blockchain technology,0.02,2017-08-31 21:33:00,2017-09-02 21:34:00,9.479099999999999,UTC+0,2 days 00:01:00.000000000
+ARNA,Arena,Arena is a cryptocurrency sports predication and betting system,0.0,2017-08-04 12:00:00,2017-09-04 12:00:00,0.0,UTC+0,31 days 00:00:00.000000000
+SNP,Snapup,Snapup disrupts the way you buy premium products,0.0,2017-08-28 12:30:00,2017-09-04 12:30:00,0.0,UTC+2,7 days 00:00:00.000000000
+FIL,FileCoin,A decentralized storage network,2.85,2017-08-10 00:00:00,2017-09-07 00:00:00,-0.42950000000000005,UTC+0,28 days 00:00:00.000000000
+HBT,Hubii Network,This is a decentralized content market place based on blockchain,0.17,2017-08-24 00:00:00,2017-09-07 12:00:00,-0.13,UTC+0,14 days 12:00:00.000000000
+AHT,Ahoolee,Ahoolee is the worlds first search engine for products,0.06,2017-08-28 07:00:00,2017-09-11 07:00:00,-0.6297999999999999,UTC+0,14 days 00:00:00.000000000
+WILD,Wild Crypto,Merging Blockchain Technology with Lottery  eGaming,0.0,2017-09-05 08:00:00,2017-09-11 08:00:00,-0.9693999999999999,UTC+1,6 days 00:00:00.000000000
+AVT,Aventus,A revolutionary global standard for a more fair secure and transparent ticketing industry,0.13,2017-09-06 12:00:00,2017-09-13 12:00:00,-0.961,UTC+0,7 days 00:00:00.000000000
+DSR,Daseron,Daseron is the worlds decentralized and secure information system for selling and sharing of content,0.13,2017-08-14 12:00:00,2017-09-14 12:00:00,0.0,UTC+0,31 days 00:00:00.000000000
+CSNO,BitDice,Cryptocurrency gambling  Online casino technology on the blockchain ,0.03,2017-08-15 00:00:00,2017-09-15 00:00:00,-0.7786,UTC+0,31 days 00:00:00.000000000
+ICOS,ICOBox,First token which allows blockchain community to vote for the best projects to be brought to life through their own ICOs,0.14,2017-08-15 12:00:00,2017-09-15 12:00:00,-0.9956999999999999,UTC--7,31 days 00:00:00.000000000
+KICK,KICKICO,KICKICO is the first already working platform for crowdfunding and crowdinvesting in cryptocurrency,0.0,2017-08-29 13:00:00,2017-09-16 18:00:00,-0.9963,UTC+0,18 days 05:00:00.000000000
+UMC,Umbrella Coin,Decentralized insurance platform built on Ethereum ,0.0,2017-08-20 12:00:00,2017-09-17 12:00:00,-0.7542,UTC+0,28 days 00:00:00.000000000
+KNC,Kyber Network,KyberNetwork is a system which allows the exchange and conversion of digital assets ,0.19,2017-09-15 00:00:00,2017-09-17 13:00:00,0.0,UTC+0,2 days 13:00:00.000000000
+ARI,Becksang,Cryptocurrency cloud mining tools that reduces mining fees,0.0,2017-08-18 00:00:00,2017-09-18 00:00:00,0.0,UTC+0,31 days 00:00:00.000000000
+DTCT,DetectorToken,DETECTOR DTCT is a bot that monitors cryptocurrency and betting markets,0.0,2017-08-20 00:00:00,2017-09-20 00:00:00,0.0,UTC+0,31 days 00:00:00.000000000
+KIN,Kin,Kik one of the most popular massaging apps in the world is creating a crypto token for its ecosystem,0.0,2017-09-12 00:00:00,2017-09-26 00:00:00,-0.9439,UTC+0,14 days 00:00:00.000000000
+RCC,Reality Clash,Augmented reality combat game with social features and a decentralized crypto token,0.07,2017-08-29 00:00:00,2017-09-29 00:00:00,0.0,UTC+0,31 days 00:00:00.000000000
+JNT,jNet1,jNET1 is a platform that enables B2B and B2C jewelrybased transactions,0.0,2017-09-01 00:00:00,2017-09-30 00:00:00,-0.9998999999999999,UTC+3,29 days 00:00:00.000000000
+LTD,Litra Coin,Litra is here to create uncontested new market space that make the competition irrelevant by decentralize Healthcare,236.0,2017-08-30 17:00:00,2017-09-30 17:00:00,236.01,UTC+0,31 days 00:00:00.000000000
+AXION,AxionV,AxionV is an agile AI crypto fund that uses proprietary algorithms and complex trading methods to consistently outperform the market,0.0,2017-09-16 15:00:00,2017-09-30 23:59:59,0.0,UTC+0,14 days 08:59:59.000000000
+MPX,MoneypotX,MPX is partnered with the Moneypot network to provide the fuel for a versatile webwallet gaming platform and bitcoinaltcoin exchange,0.0,2017-09-17 18:00:00,2017-09-30 23:59:59,0.0,UTC+0,13 days 05:59:59.000000000
+PROFF,Prover,Technology of authenticity verification of video content,0.0,2017-09-01 00:00:00,2017-09-30 23:59:59,0.0,UTC+3,29 days 23:59:59.000000000
+PST,Planes Cloud,Decentralized data marketplace,0.36,2017-09-09 20:00:00,2017-10-01 20:00:00,0.1864,UTC+0,22 days 00:00:00.000000000
+LUST,Lust.agency,A decentralized sex marketplace with a goal to enable all human beings on earth to find their perfect sexual partner anonymously ,0.0,2017-08-18 03:00:00,2017-10-02 03:00:00,0.0,UTC+0,45 days 00:00:00.000000000
+POWR,Power Ledger,Power Ledger is a blockchainbased peertopeer energy trading platform enabling consumers and businesses to share excess solar power with their neighbours,0.05,2017-09-08 14:00:00,2017-10-06 00:00:00,-0.4792,UTC+8,27 days 10:00:00.000000000
+DRT,DomRaider,Decentralized Blockchain auctions in realtime DRT tokens,0.0,2017-09-12 08:00:00,2017-10-11 08:00:00,-0.9939,UTC+0,29 days 00:00:00.000000000
+STU,BitJob,Decentralized higher education  student community blockchain project,0.0,2017-08-02 00:00:00,2017-10-13 00:00:00,-0.9799,UTC+0,72 days 00:00:00.000000000
+EVC,EventChain,Solving ticketing issues for the event industry,0.0,2017-09-13 00:13:00,2017-10-14 00:13:00,-0.9954000000000001,UTC+0,31 days 00:00:00.000000000
+HDG,HEDGE TOKEN,The project is establishing a platform to help investors hedge their bets,1.16,2017-09-15 10:00:00,2017-10-15 11:00:00,2.87,UTC+0,30 days 01:00:00.000000000
+PRG,Paragon Coin,Bringing blockchain technology to the world of legal cannabis industry,0.03,2017-09-15 11:00:00,2017-10-15 11:00:00,-0.9743,UTC--5,30 days 00:00:00.000000000
+DLT,DLS Academy,A tool that offers all you need for your professional growth and also a way to share knowledge and get paid or not,0.05,2017-09-15 18:00:00,2017-10-15 18:00:00,14.1833,UTC+0,30 days 00:00:00.000000000
+EBET,Ethbet,Ethbet is a decentralized peertopeer and provablyfair Ethereumbased dicing game without a house edge,0.01,2017-09-17 20:00:00,2017-10-15 20:00:00,-0.9719,UTC+0,28 days 00:00:00.000000000
+EDO,Eidoo,Fast easy and not only a Multicurrency Wallet its a Hybrid Exchange too Its Eidoo,0.3,2017-10-04 00:01:00,2017-10-16 00:01:00,-0.8709,UTC+0,12 days 00:00:00.000000000
+DIGI,DIGI,Blockchain based digital goods and services,0.0,2017-09-07 12:00:00,2017-10-19 12:00:00,0.0,UTC+0,42 days 00:00:00.000000000
+AIR,AirToken,Mobile internet access using advertising and microloans,0.0,2017-09-19 14:00:00,2017-10-19 14:00:00,-0.8868,UTC+0,30 days 00:00:00.000000000
+LINK,ChainLink,The LINK Network provides smart contracts with data bank payments and access to APIs,0.0,2017-09-19 15:00:00,2017-10-19 15:00:00,0.0,UTC--4,30 days 00:00:00.000000000
+WIL,MyWill Platform,Decentralized platform for crypto assets management in various life circumstances,0.0,2017-09-20 00:00:00,2017-10-20 23:59:59,0.0,UTC+3,30 days 23:59:59.000000000
+FYP,Flyp.me,The most private accountless exchange with 50 profit sharing,0.02,2017-09-28 15:00:00,2017-10-21 15:00:00,-0.7501000000000001,UTC+0,23 days 00:00:00.000000000
+COB,COBINHOOD,COBINHOOD is the worlds first ZERO Trading Fees cryptocurrency exchange with the vision to maximize traders profits,0.0,2017-09-13 09:29:00,2017-10-22 09:29:00,-0.9465,UTC+0,39 days 00:00:00.000000000
+SSIO,Sex Service,A friendly sex dating service based on a blockchain Do you believe in sex,0.0,2017-09-12 23:59:59,2017-10-22 23:59:59,0.0,UTC+0,40 days 00:00:00.000000000
+BKT,Bookira,Bookira is created to make the online booking process easier while reducing the risk and costs for users,0.0,2017-09-24 01:00:00,2017-10-24 01:00:00,-0.9994,UTC+0,30 days 00:00:00.000000000
+VEE,BLOCKv,The foundation of the Virtual Goods Economy,0.0,2017-10-19 06:00:00,2017-10-24 06:00:00,-0.9345,UTC+0,5 days 00:00:00.000000000
+CHX,CHEX,Modular marketplace supernetwork initially powering the Cannabis industry,0.0,2017-08-25 23:20:00,2017-10-24 23:20:00,0.0,UTC+0,60 days 00:00:00.000000000
+KeY,KEY TOKEN,KeYtoken aims to establish the nextgeneration smartbank and a worldwide exchange network on blockchain platform,0.0,2017-09-25 12:00:00,2017-10-25 12:00:00,0.0,UTC+9,30 days 00:00:00.000000000
+ASTRO,Astronaut,An asset management platform for investing in ICOs,0.36,2017-09-28 09:00:00,2017-10-25 23:00:00,-0.6446,UTC+0,27 days 14:00:00.000000000
+POLL,ClearPoll,Social public opinion poll network on the blockchain,0.05,2017-10-02 04:00:00,2017-10-26 04:00:00,-0.6456000000000001,UTC+8,24 days 00:00:00.000000000
+SCT,Soma,A decentralized social market place,0.51,2017-09-26 06:00:00,2017-10-26 06:00:00,-0.2434,UTC+0,30 days 00:00:00.000000000
+SWM,Swarm Fund,Cooperative Ownership Platform for Real Assets,0.04,2017-10-21 14:00:00,2017-10-27 23:00:00,-0.9604,UTC+0,6 days 09:00:00.000000000
+LPG,LangPie,Onlinetranslation platform based on blockchain,0.0,2017-09-28 06:00:00,2017-10-28 06:00:00,0.0,UTC+1,30 days 00:00:00.000000000
+LAB,Tokenlab,Tokenlab offers Token and ICO services to clients towards their fund raising campaigns,0.02,2017-09-14 12:00:00,2017-10-28 12:00:00,-0.7245,UTC+0,44 days 00:00:00.000000000
+GIVE,Grant Hero,The Grant Hero Foundation is a decentralized nonprofit organization that fosters direct personal giving Grant Hero enables donors to create and award personal grants direct to recipients offering complete autonomy and transparency,0.0,2017-10-02 00:00:00,2017-10-30 00:00:00,0.0,UTC--5,28 days 00:00:00.000000000
+CPAY,Cryptopay,Central entry point into a decentralized space,0.03,2017-09-25 06:00:00,2017-10-30 06:00:00,-0.9109999999999999,UTC+0,35 days 00:00:00.000000000
+ARN,Aeron,Aeron  the new standard of aviation safety powered by blockchain,0.18,2017-09-19 00:00:00,2017-10-30 23:59:59,-0.6322,UTC+3,41 days 23:59:59.000000000
+ARX,Assistive Reality,AIintegrated Augmented Reality applications and cloud service,0.0,2017-09-30 01:00:00,2017-10-31 01:00:00,0.0,UTC+0,31 days 00:00:00.000000000
+BCOIN,BannerCoin,Payment processing system for acceptance of digital currencies,0.61,2017-09-15 00:00:00,2017-10-31 11:59:00,-0.7962,UTC--7,46 days 11:59:00.000000000
+ATL,ATLANT,Atlant aims to be the Worlds Real Estate Blockchain Platform,0.02,2017-09-07 12:00:00,2017-10-31 12:00:00,-0.9652,UTC+0,54 days 00:00:00.000000000
+ALDO,Aldoin,Green Blockchain  Mining with monthly dividends,0.0,2017-08-23 00:00:00,2017-10-31 23:59:59,0.0,UTC+1,69 days 23:59:59.000000000
+DCN,Dentacoin,Dentacoin The Blockchain Solution for the Global Dental Industry for improved service delivery,0.0,2017-10-01 14:00:00,2017-11-01 14:00:00,0.0,UTC+0,31 days 00:00:00.000000000
+ENO,Ethino,The first and only erc20 Ethereum casino,0.05,2017-10-02 14:00:00,2017-11-02 14:00:00,-0.9695,UTC--4,31 days 00:00:00.000000000
+RCN,Ripio Credit Network,A global peertopeer credit network based on cosigned smart contracts,0.05,2017-10-24 00:00:00,2017-11-05 00:00:00,-0.3529,UTC+0,12 days 00:00:00.000000000
+TKT,crypto.tickets,Blockchain platform for ticket systems and event organisers,0.0,2017-10-05 22:00:00,2017-11-05 23:59:59,0.0,UTC+3,31 days 01:59:59.000000000
+UTK,Utrust,The future of online payments,0.02,2017-11-02 13:00:00,2017-11-08 13:00:00,-0.6986,UTC+0,6 days 00:00:00.000000000
+STAR,Starbase,A Platform for issuing tokens and launch crowdfunding projects,0.03,2017-09-18 00:00:00,2017-11-10 00:00:00,0.0,UTC+0,53 days 00:00:00.000000000
+QVT,Qvolta,Qvolta will let people convert cryptocurrencies into the fiat currencies,0.01,2017-10-10 00:00:00,2017-11-10 00:00:00,1.2912000000000001,UTC+0,31 days 00:00:00.000000000
+ALTC,Altocar,Taxi rides aggregator service on the wave blockchain platform,0.0,2017-10-10 09:00:00,2017-11-10 10:00:00,0.0,UTC+3,31 days 01:00:00.000000000
+HIVE,CryptoHive,Trading bot advisor with smart algorithms to gather useful trading information globally,0.0,2017-10-10 00:00:00,2017-11-11 00:00:00,0.0,UTC+0,32 days 00:00:00.000000000
+PBC,Blockstack,Blockstack has been designed as the new internet for decentralized apps,0.0,2017-11-01 00:00:00,2017-11-13 00:00:00,-1.0,UTC+0,12 days 00:00:00.000000000
+GVT,Genesis Vision,Genesis Vision is the platform for the private trust management market built on blockchain technology and smart contracts,1.15,2017-09-15 09:00:00,2017-11-15 09:00:00,0.149,UTC+0,61 days 00:00:00.000000000
+CDRT,CREDEROOM,Lending company with modern analytical platform,0.03,2017-10-16 12:00:00,2017-11-15 23:59:59,-0.9721,UTC+0,30 days 11:59:59.000000000
+PRIX,Privatix,First Internet Bandwidth Marketplace powered by P2P VPN Network on Blockchain,0.94,2017-10-19 14:00:00,2017-11-16 14:00:00,-0.6862999999999999,UTC+0,28 days 00:00:00.000000000
+XCPO,COPICO,COPICO is the project powering the XCPO masternode Coin,0.04,2017-10-17 00:00:00,2017-11-17 00:00:00,4.8785,UTC+0,31 days 00:00:00.000000000
+AMM,MicroMoney,MicroMoney is an Open Source Credit  Big Data Bureau that connects new customers to all existing financial services,0.0,2017-10-18 00:00:00,2017-11-18 00:00:00,-0.9969,UTC+0,31 days 00:00:00.000000000
+CRN,CareerXon,First Decentralized Career Oriented  Skills Training Platform,0.0,2017-11-04 00:00:00,2017-11-18 00:00:00,0.0,UTC+0,14 days 00:00:00.000000000
+CASH,Cash Poker Pro,Modern online poker room based on blockchain technology,0.01,2017-10-26 18:00:00,2017-11-18 18:00:00,0.0,UTC+0,23 days 00:00:00.000000000
+HAW,Happiest at work,Attracting people to work in the clothing manufacturing industry,0.0,2017-10-23 13:00:00,2017-11-20 13:00:00,0.0,UTC+0,28 days 00:00:00.000000000
+SYN,Synapse,Decentralized Data and AI Marketplace,0.0,2017-10-21 07:00:00,2017-11-21 06:59:59,0.0,UTC--8,30 days 23:59:59.000000000
+WAND,WandX,Decentralized financial instruments on ERC20 tokens,0.01,2017-10-22 14:00:00,2017-11-21 19:30:00,-0.9148000000000001,UTC+0,30 days 05:30:00.000000000
+BID,Blockbid,Blockbid is an ultrasecure exchange with the goal of facilitating the highest volume of trades for the most cryptocurrencies with a single login,0.0,2017-10-21 21:00:00,2017-11-21 21:00:00,0.0,UTC+11,31 days 00:00:00.000000000
+CDL,Confideal,Escrow Platform on The Ethereum Blockchain,0.0,2017-11-02 12:00:00,2017-11-22 12:00:00,0.0,UTC+1,20 days 00:00:00.000000000
+SCF,Safe Child Future,The child safety system that will be used to protect children on the roads and streets,0.0,2017-10-23 15:00:00,2017-11-23 15:00:00,0.0,UTC+0,31 days 00:00:00.000000000
+MBT,Multibot,A multifunctional multithreaded trading platform in the cloud,0.0,2017-10-20 03:00:00,2017-11-24 03:00:00,0.0,UTC+0,35 days 00:00:00.000000000
+ZET,ZEUS,First Ecomining in the World Recycling platform on the blockchain,0.01,2017-10-25 00:00:00,2017-11-25 00:00:00,-0.9931,UTC+2,31 days 00:00:00.000000000
+BON,Bonpay,Blockchain powered wallet and debit card for variety of cryptocurrencies Bonpay makes transactions as simple as possible,0.0,2017-10-31 14:00:00,2017-11-28 14:00:00,-1.0,UTC+1,28 days 00:00:00.000000000
+WAX,WAX,A decentralized platform that enables anyone to operate a fully functioning virtual asset marketplace,0.03,2017-11-01 13:00:00,2017-11-29 13:00:00,-0.948,UTC+0,28 days 00:00:00.000000000
+STORM,Storm,Creating the StorMarket  a decentralized microtask marketplace platform ,0.0,2017-11-01 00:00:00,2017-11-30 00:00:00,-0.8513,UTC+0,29 days 00:00:00.000000000
+PKT,Playkey.io,Decentralized Cloud Gaming Platform,0.02,2017-11-01 03:00:00,2017-11-30 03:00:00,-0.9924,UTC+0,29 days 00:00:00.000000000
+SENSE,SENSE,The Value for Human Capital Enabled by Smart Contracts,0.0,2017-11-07 09:00:00,2017-11-30 09:00:00,0.0,UTC+4,23 days 00:00:00.000000000
+VZT,Vezt ICO,Vezt lets music fans share ownership with artists in their favorite songs,0.0,2017-11-03 12:00:00,2017-11-30 12:00:00,0.0,UTC+7,27 days 00:00:00.000000000
+COP,CopPay,Multicryptocurrency payment platform for businesses consumers  community,0.0,2017-10-30 12:00:00,2017-11-30 12:00:00,-0.9767,UTC+0,31 days 00:00:00.000000000
+CCO,CCORE,Your Crypto Payment Platform,0.06,2017-11-09 00:00:00,2017-11-30 23:59:59,-0.8068000000000001,UTC+0,21 days 23:59:59.000000000
+PBL,Publica,Blockchain revolution for the publishing economy,0.04,2017-11-01 00:00:00,2017-12-01 00:00:00,-0.9556,UTC+3,30 days 00:00:00.000000000
+DMT,DMarket,Dmarket  the first decentralized marketplace where you can trade all your ingame items globally,0.0,2017-10-17 12:00:00,2017-12-01 12:00:00,0.0,UTC--4,45 days 00:00:00.000000000
+UCN,VerifyUnion,Decentralized Platform for Digital Identification and Social Scoring Engine,0.0,2017-10-03 03:00:00,2017-12-03 03:59:00,0.0,UTC+0,61 days 00:59:00.000000000
+GEE,Geens,Privacy Focused Blockchain Timestamping Office,0.0,2017-11-07 10:00:00,2017-12-07 10:00:00,0.0,UTC+0,30 days 00:00:00.000000000
+JBX,JBOXCOIN,A Blockchain based decentralized video streaming platform ,0.0,2017-11-08 02:00:00,2017-12-08 02:00:00,0.0,UTC+0,30 days 00:00:00.000000000
+DIMND,DIMND,Digital Currency powered by Ethreum represented by Diamonds,0.0,2017-11-07 00:00:00,2017-12-10 00:00:00,0.0,UTC+0,33 days 00:00:00.000000000
+PLM,algo.land,The autonomous algorithmic trading blockchain fund,0.0,2017-11-01 00:00:00,2017-12-10 23:59:59,0.0,UTC+1,39 days 23:59:59.000000000
+ATK,AML Bitcoin,AML BitCoin is the first AML KYC compliant coin for legitimate financial use on a global scale,0.0,2017-10-06 00:00:00,2017-12-15 00:00:00,0.0,UTC+0,70 days 00:00:00.000000000
+WRC,Worldcore,Modern Banking Solutions For The Digital World Tomorrow,0.01,2017-10-14 00:00:00,2017-12-15 00:00:00,-0.9126000000000001,UTC+1,62 days 00:00:00.000000000
+PHI,Delphi Systems,Oracle Platform and Prediction Market,0.0,2017-11-01 12:00:00,2017-12-15 12:00:00,0.0,UTC+0,44 days 00:00:00.000000000
+AIX,Aigang Network,Blockchain Protocol for Digital Insurance built for InternetofThings,0.0,2017-11-15 13:00:00,2017-12-15 13:00:00,-0.9997,UTC+0,30 days 00:00:00.000000000
+MED,MediBloc,The largest healthcare blockchain Medibloc will help champion the worlds shift to private information decentralization,0.01,2017-11-20 02:00:00,2017-12-15 15:00:00,0.3652,UTC+0,25 days 13:00:00.000000000
+NGC,NAGA Group,Smart Cryptocurrency for gaming and trading,0.03,2017-12-01 00:00:00,2017-12-15 23:59:59,-0.9738,UTC+0,14 days 23:59:59.000000000
+XRED,XRED,The First Cryptocurrency fund for real estate development and investment,0.0,2017-11-01 00:00:01,2017-12-15 23:59:59,0.0,UTC+0,44 days 23:59:58.000000000
+VEGA,Vega AI Solutions,Automated Intelligent Trading App Help Traders and Investors Get Good Returns On Their Investments,0.0,2017-11-24 00:00:00,2017-12-16 00:00:00,-0.9998,UTC+0,22 days 00:00:00.000000000
+VRP,ProsenseLive,ProsenseLive is the worlds first decentralized peertopeer livestreaming platform for the distribution of virtual reality content,0.0,2017-10-19 17:00:00,2017-12-16 16:00:00,0.0,UTC+0,57 days 23:00:00.000000000
+NEU,Neufund,Neufund is a communityowned fundraising platform,0.07,2017-11-17 11:00:00,2017-12-17 11:00:00,-0.7972,UTC+0,30 days 00:00:00.000000000
+SPHTX,SophiaTX,Blockchain PlatformMarketplace integrating business apps  solutions to collaborative environments,0.0,2017-12-07 14:00:00,2017-12-17 14:00:00,-0.9945,UTC+1,10 days 00:00:00.000000000
+IVC,Investy,Investy is a platform for decentralized investments using Blockchain Technology,0.0,2017-11-24 00:00:00,2017-12-18 00:00:00,0.0,UTC+3,24 days 00:00:00.000000000
+CHX,Chainium,We are reinventing the global equity market,0.0,2017-11-27 12:00:00,2017-12-18 12:00:00,0.0,UTC+0,21 days 00:00:00.000000000
+MAT,MiniApps.pro,AI and Blockchain Powered Chatbot Ecosystem,0.03,2017-10-18 00:00:00,2017-12-19 00:00:00,-0.9906999999999999,UTC+0,62 days 00:00:00.000000000
+DEAL,Foreground,Foreground is an affiliate marketing solution for the traditional internet and the rapidly growing decentralized web,0.0,2017-11-28 00:00:00,2017-12-19 00:00:00,0.0,UTC+0,21 days 00:00:00.000000000
+ICS,NOVAcool,The first immersion cooling system for PC,0.0,2017-09-28 12:00:00,2017-12-19 12:00:00,0.0,UTC+0,82 days 00:00:00.000000000
+CNT,Connectius,Connectius  a blockchain SaaS solution for ecommerce,0.01,2017-11-20 23:59:59,2017-12-20 00:00:00,-0.9889,UTC+3,29 days 00:00:01.000000000
+RST,REGA Risk Sharing,Aims to unlock the power of blockchain technology to revolutionize traditional insurance industry,0.0,2017-10-15 10:00:00,2017-12-20 11:00:00,0.0,UTC+0,66 days 01:00:00.000000000
+PTC,Propthereum,Tokens bought with Ethereum and distributed to participants backed by immoveable property,0.01,2017-11-20 11:59:59,2017-12-20 12:00:00,-0.9581999999999999,UTC+0,30 days 00:00:01.000000000
+ESC,EtherSport,Online Sports Lottery Platform with Provably Fair Results 15 Profit Share for Token Holders,0.01,2017-11-13 12:00:00,2017-12-20 13:00:00,-0.9573999999999999,UTC+0,37 days 01:00:00.000000000
+IDH,indaHash,Indahash is tokenizing the influencer industry,0.0,2017-11-29 15:00:00,2017-12-20 15:00:00,-0.9262999999999999,UTC+0,21 days 00:00:00.000000000
+DEB,Debitum Network,Borderless SME business financing,0.0,2017-12-07 15:00:00,2017-12-21 15:00:00,-0.9832,UTC+0,14 days 00:00:00.000000000
+KVT,kevin,kevin is an innovative online banking service that allows to easily link and manage different crypto accounts and bank accounts,0.0,2017-10-17 00:00:00,2017-12-22 00:00:00,0.0,UTC+0,66 days 00:00:00.000000000
+DAC,Hdac,Hdac is the worlds 1st IoT Contract  Payment Platform based on Blockchain,0.0,2017-11-27 23:58:00,2017-12-22 23:58:00,0.0,UTC+0,25 days 00:00:00.000000000
+HIG,Ethereum High,Ethereum High is a robust and featherlight cryptocurrency designed to hedge the risk of your portfolio,0.0,2017-11-20 00:00:00,2017-12-24 23:59:59,0.0,UTC+0,34 days 23:59:59.000000000
+BINARY,Binary.com,The easiest way to get started in the financial market,0.0,2017-11-15 00:00:00,2017-12-25 00:00:00,0.0,UTC+0,40 days 00:00:00.000000000
+SRN,Finney,Sirin Labs is building an ultra secured  open sourced communication device for the blockchain era,0.01,2017-12-12 00:00:00,2017-12-25 00:00:00,-0.9904999999999999,UTC+0,13 days 00:00:00.000000000
+REM,REMME,Access Management solution replacing passwords with the distributed authentication,0.02,2017-12-04 00:00:00,2017-12-25 00:00:00,0.0,UTC+0,21 days 00:00:00.000000000
+INS,INS Ecosystem,Decentralized ecosystem directly connecting grocery manufacturers and consumers,0.19,2017-12-04 11:00:00,2017-12-25 11:00:00,-0.8138,UTC+0,21 days 00:00:00.000000000
+PEF,Prosume Energy,The biggest energy revolution ever,0.0,2017-11-06 00:00:00,2017-12-25 23:59:59,0.0,UTC+0,49 days 23:59:59.000000000
+CAN,CanYa,Real working platform for a 2 trillion dollar peer to peer market,0.01,2017-11-26 00:00:00,2017-12-26 00:00:00,-0.9890000000000001,UTC+11,30 days 00:00:00.000000000
+DES,Decentralized Escrow,DesAnti Scam helps to protect blockchain investors from financial losses,0.02,2017-11-29 12:00:00,2017-12-27 11:59:59,-0.9425,UTC+3,27 days 23:59:59.000000000
+LEND,EthLend,ETHLend a blockchain startup that introduces decentralized lending it aims to enable decentralized lending globally by allowing crypto borrowing,0.02,2017-11-25 12:00:00,2017-12-27 23:59:00,-0.2425,UTC+0,32 days 11:59:00.000000000
+BKX,BANKEX,A ProofofAsset Protocol that brings together BankasaService and Blockchain technology to evolve capital markets Tokenization of realworld and financial assets,0.01,2017-11-28 00:00:00,2017-12-28 00:00:00,-0.9882,UTC+0,30 days 00:00:00.000000000
+SIG,Spectiv,Spectiv is a signal token protocol,0.0,2017-12-08 14:00:00,2017-12-29 02:00:00,0.0,UTC--5,20 days 12:00:00.000000000
+NAU,NAU,NAU directly links buyers and sellers n a retail market,0.0,2017-10-31 12:00:00,2017-12-29 12:00:00,0.0,UTC+0,59 days 00:00:00.000000000
+PMT,DAO PlayMarket 2.0,A decentralized Android app store combined with an ICO developer platform crypto exchange that accepts payment in cryptocurrency ,0.0,2017-11-08 00:00:00,2017-12-29 23:59:59,0.0,UTC+7,51 days 23:59:59.000000000
+LHC,LH-Crypto,LHCoin is a token with monthly income from operational activities,0.0,2017-10-30 00:00:00,2017-12-30 00:00:00,-0.9813,UTC+0,61 days 00:00:00.000000000
+LST,LiveShow,LIVESHOW is creating a webcam platform of a new generation which is based on blockchain technology,0.0,2017-11-10 00:00:00,2017-12-30 00:00:00,-0.9943000000000001,UTC+3,50 days 00:00:00.000000000
+STY,STYRAS,STYRAS Connects everyone anywhere and everywhere,0.0,2017-11-21 15:00:00,2017-12-30 00:00:00,0.0,UTC+0,38 days 09:00:00.000000000
+DMC,ODMCoin,First investment blockchain option in the oil and gas sector,0.0,2017-12-01 03:00:00,2017-12-31 03:00:00,-1.0,UTC+3,30 days 00:00:00.000000000
+FDM,Freedom Streaming,Freedom Streaming offers a full live streaming platform that allows you to stream from anywhere in the world uncensored safe and anonymously,0.0,2017-11-15 17:00:00,2017-12-31 17:00:00,-0.9779000000000001,UTC+0,46 days 00:00:00.000000000
+FPT,FamilyPoints,Bringing Smart Contacts to Smart Parents,0.0,2017-12-01 00:00:00,2017-12-31 23:59:59,0.0,UTC--4,30 days 23:59:59.000000000
+CIX,Cryptonetix,Cryptonetix will be the foremost blockchain asset management analytics funding and educational platform for the rapidly growing cryptocurrency markets,0.01,2017-11-15 00:00:00,2017-12-31 23:59:59,-0.9813,UTC--6,46 days 23:59:59.000000000
+FMT,Fantasy Market,Fantasy Market is an innovative marketplace where users control the performers through the use of our token,0.0,2017-12-03 22:00:00,2018-01-01 12:00:00,0.0,UTC+4,28 days 14:00:00.000000000
+LOL,Loan or Lease,Decentralized Lending Network of Masternodes,0.0,2017-12-01 12:00:00,2018-01-04 12:00:00,0.0,UTC--8,34 days 00:00:00.000000000
+TIO,Trade.io,tradeio is an innovative new blockchain trading platform that will disrupt the financial ecosystem and democratize the markets,0.28,2017-12-07 00:00:01,2018-01-04 23:59:59,-0.49950000000000006,UTC+0,28 days 23:59:58.000000000
+CABS,CyberTrust,We help Banks buy Bitcoin,0.0,2017-11-29 00:00:00,2018-01-05 23:59:59,0.0,UTC+3,37 days 23:59:59.000000000
+BTF,Blockchain Traded Fund,The Blockchain Traded Fund is a closed ended fund that invests in the best Ethereum,0.0,2017-12-01 00:00:00,2018-01-06 00:00:00,0.0,UTC+0,36 days 00:00:00.000000000
+UCASH,U.CASH,Cash meets digital currencies,0.0,2017-09-08 00:00:00,2018-01-07 00:00:00,-0.99,UTC+0,121 days 00:00:00.000000000
+STARS,Stars Group,Progressive financial infrastructure for professional footballers,0.0,2017-11-15 00:00:00,2018-01-10 00:00:00,0.0,UTC+0,56 days 00:00:00.000000000
+CHSB,SwissBorg,The New Era of Swiss Private Banking with Smart Contracts,0.01,2017-12-07 13:00:00,2018-01-10 13:00:00,-0.9031,UTC+2,34 days 00:00:00.000000000
+LOAN,LENDOIT,Lendoit is the only True Decentralized P2P Lending Platform using Blockchain Technology,0.0,2017-12-13 14:00:00,2018-01-13 14:00:00,0.0,UTC+2,31 days 00:00:00.000000000
+CRYPT,Crypterium,Digital mobile cryptobank,0.04,2017-10-31 10:00:00,2018-01-14 10:00:00,-0.9175,UTC--4,75 days 00:00:00.000000000
+EVN,envion (EVN),ENVION makes mining green  mobile,0.15,2017-12-15 12:00:00,2018-01-14 12:00:00,-0.8477,UTC+0,30 days 00:00:00.000000000
+GAT,Gatcoin,GATCOIN transforms traditional discount coupons loyalty points and shopping vouchers into liquid tradable digital tokens,0.0,2018-01-14 12:00:00,2018-01-14 12:00:00,-0.9883,UTC+0,0 days 00:00:00.000000000
+COV,Covesting,Revolutionary copytrading platform combined with the most complete infrastructure for investors and cryptocurrency traders,0.08,2017-11-24 12:00:00,2018-01-15 12:00:00,-0.9070999999999999,UTC+0,52 days 00:00:00.000000000
+APPC,AppCoins,AppCoins is the first cryptocurrency for app stores serving 200 million active users,0.04,2017-12-13 00:00:00,2018-01-15 23:59:59,-0.8137000000000001,UTC+0,33 days 23:59:59.000000000
+TZRO,tZERO,The tZERO platform integrates cryptographically secure distributed ledgers with existing market processes to reduce settlement time and costs,0.0,2017-12-18 19:32:00,2018-01-18 19:32:00,0.0,UTC+0,31 days 00:00:00.000000000
+SLRM,Solareum,Solareum brings solar energy on Blockchain,0.0,2017-12-25 00:00:00,2018-01-18 23:59:59,0.0,UTC+0,24 days 23:59:59.000000000
+TRF,TravelFlex Coin,New DAG tech based cryptocurrency decentralized social travel network and payment system,0.0,2017-12-14 00:00:01,2018-01-22 11:59:59,-0.9937999999999999,UTC+8,39 days 11:59:58.000000000
+ELA,Elastos,Blockchain with totally decentralized P2P economic infrastructure which authenticates digital rights and turns digital information into assets ,1.97,2018-01-02 18:47:00,2018-01-23 18:48:00,-0.8914,UTC+0,21 days 00:01:00.000000000
+HCT,Real Estate Coupon,The First Real Estate Coupon Ethereum Token for Purchasing Properties,0.0,2018-01-16 00:00:00,2018-01-25 00:00:00,0.0,UTC+0,9 days 00:00:00.000000000
+BDG,BitDegree,The worlds first blockchainpowered online education platform with token scholarships  tech talent acquisition,0.0,2017-12-01 14:00:00,2018-01-25 23:59:59,-0.9584999999999999,UTC+0,55 days 09:59:59.000000000
+EDU,LiveEdu,LiveEdu is Youtube for Online Education the nextgeneration Lyndacom,0.0,2018-01-15 00:00:00,2018-01-26 00:00:00,0.0,UTC+0,11 days 00:00:00.000000000
+REALESTATE,Propify,The Decentralized Real Estate Platform,0.0,2017-12-14 00:00:00,2018-01-26 00:00:00,0.0,UTC--8,43 days 00:00:00.000000000
+JNT,Jibrel Network,Jibrel provides traditional financial assets such as currencies bonds and equities as standard ERC20 tokens on the Ethereum Blockchain,0.03,2017-11-27 12:00:00,2018-01-26 12:00:00,-0.8527,UTC+0,60 days 00:00:00.000000000
+POLY,Polymath,Polimath is the interface between financial securities and the blockchain,0.03,2018-01-27 00:00:00,2018-01-27 23:59:00,0.0,UTC+0,0 days 23:59:00.000000000
+STQ,Storiqa,Storiqa  a marketplace with a wide range of functions for effective sales in the world of a new digital economy,0.0,2017-11-29 18:20:00,2018-01-29 18:20:00,0.0,UTC+0,61 days 00:00:00.000000000
+FLP,Gameflip - FLIP (FLP),FLIP Cryptotoken for gamers from gaming experts,0.01,2017-12-04 19:00:00,2018-01-29 19:00:00,-0.9948,UTC+0,56 days 00:00:00.000000000
+VIT,ViMarket,A 3D marketplace that allows users to create and share virtual reality VR experiences ViMarket promises to bring about a muchneeded breakthrough in the global ecommerce ecosystem,0.0,2017-12-07 00:00:00,2018-01-31 00:00:00,-0.9998,UTC+0,55 days 00:00:00.000000000
+PINNS,Pocketinns,The worlds first decentralized blockchain driven marketplace ecosystem,0.0,2018-01-15 10:00:00,2018-01-31 10:00:00,0.0,UTC--3,16 days 00:00:00.000000000
+KIND,Kind Ads,Kind Ads is an advertising platform that serves userfriendly ads without taking any middleman fees,0.0,2018-01-10 12:00:00,2018-01-31 12:00:00,0.0,UTC--5,21 days 00:00:00.000000000
+WIZ,Crowdwiz,CrowdWiz  Bringing the future of investment into your hands,0.01,2017-11-20 12:00:00,2018-01-31 12:00:00,-0.9902,UTC+0,72 days 00:00:00.000000000
+BEE,The Bee Token,Decentralizing ShortTerm Housing Rentals Blockchain Powered Platform With 0 Commissions Network Effects,0.0,2018-01-02 12:00:00,2018-01-31 12:00:00,0.0,UTC+7,29 days 00:00:00.000000000
+SHIP,ShipChain,Disrupting transport and logistics on the Blockchain,0.01,2018-01-01 00:00:00,2018-01-31 23:59:59,-0.9737,UTC+0,30 days 23:59:59.000000000
+SHPING,Shping,Shping is an innovative shoppermarketing ecosystem that enables participating brands and organisations the opportunity to reward shoppers who use the Shping App with a new cryptocurrency called Shping Coin,0.0,2018-01-22 00:00:00,2018-01-31 23:59:59,0.0,UTC--1,9 days 23:59:59.000000000
+ING,IUNGO,Global wireless internet service providerpowered by blockchain,0.01,2017-12-07 00:00:00,2018-01-31 23:59:59,0.2229,UTC+0,55 days 23:59:59.000000000
+UST,Uservice,Global Decentralized Blockchain Platform For Automotive Industry,0.0,2017-11-20 12:00:00,2018-02-01 00:00:00,0.0,UTC+0,72 days 12:00:00.000000000
+AID,AidCoin,AidCoin is the token for charitable giving built on Ethereum Blockchain,0.01,2018-01-16 11:00:00,2018-02-01 11:00:00,-0.9756,UTC+0,16 days 00:00:00.000000000
+ETK,EnergiToken,EnergiToken rewards energy saving behaviour,0.0,2018-02-01 10:00:00,2018-02-01 12:00:00,0.0,UTC+0,0 days 02:00:00.000000000
+WPR,WePower,WePower is launching blockchain and smart contracts powered green energy trading platform,0.01,2018-02-01 22:49:00,2018-02-02 22:50:00,-0.9428,UTC+1,1 days 00:01:00.000000000
+INSP,Inspeer,A Peertopeer lending service that works with Cryptocurrency and Fiat,0.0,2017-12-11 16:00:00,2018-02-05 16:00:00,0.0,UTC+2,56 days 00:00:00.000000000
+SHP,Sharpe Capital,Sharpe Capital is a blockchain based investment fund that invests in cryptocurrency assets based on predictions from token holders Token holders who make accurate predictions earn Ether,0.0,2017-11-06 00:00:00,2018-02-05 23:59:00,-0.9963,UTC+0,91 days 23:59:00.000000000
+ESCAPE,EscapeToken,Escape games booking service powered by Blockchain Technology,0.0,2018-01-23 12:00:00,2018-02-09 23:59:59,0.0,UTC+0,17 days 11:59:59.000000000
+ABT,ArcBlock,ArcBlock is a platform and an ecosystem for building and deploying decentralized blockchain applications,0.2,2018-02-03 19:00:00,2018-02-10 00:00:00,-0.6053999999999999,UTC--5,6 days 05:00:00.000000000
+FSN,Fusion,Blockchain based inclusive cryptofinance platform,0.87,2018-02-01 12:00:00,2018-02-10 23:59:59,-0.6504000000000001,UTC+0,9 days 11:59:59.000000000
+SCR,Scorum,Scorum is the first sports social media powered by blockchain,0.0,2018-01-14 16:00:00,2018-02-11 16:00:00,0.0,UTC+0,28 days 00:00:00.000000000
+3DT,3D-Token,The glocal decentralized justintime factory 40,0.0,2017-12-18 00:00:00,2018-02-11 23:59:59,0.0,UTC+0,55 days 23:59:59.000000000
+MWAT,REDMegaWatt,Major EU energy company launches energy trading ecosystem and the first power retail franchise,0.01,2018-01-15 12:00:00,2018-02-12 12:00:00,-0.8743000000000001,UTC+2,28 days 00:00:00.000000000
+SKRP,Skraps,Invest your spare change into diversified portfolios of cryptocurrencies and crypto assets,0.0,2018-01-15 00:00:00,2018-02-14 11:59:59,0.0,UTC+0,30 days 11:59:59.000000000
+DTH,Dether,Buy  sell crypto for cash Spend it at physical stores,0.0,2018-02-07 14:00:00,2018-02-14 14:00:00,-0.9909,UTC+1,7 days 00:00:00.000000000
+DIGIT,DIGIT Coin,Empowering BlockchainBased Digital Marketing The Most Powerful Digital Marketing Solutions on Blockchain,0.0,2017-12-08 08:00:00,2018-02-14 23:00:00,0.0,UTC+7,68 days 15:00:00.000000000
+IBET,cryptoibet,CryptoIBet is the next generation platform for online gaming experience,0.0,2017-12-01 00:00:00,2018-02-15 00:00:00,0.0,UTC+0,76 days 00:00:00.000000000
+BMK,BMarkt,Futureoriented platorm for exchanging real objects for cryptocurrency,0.0,2018-01-15 00:00:00,2018-02-15 00:00:00,0.0,UTC+0,31 days 00:00:00.000000000
+FXT,FuzeX,FuzeX offers an all in one payment solution that provides a smarter way to pay Paying with cryptocurrency debit credit and reward cards is easier,0.0,2018-01-15 00:00:00,2018-02-15 00:00:00,0.0,UTC+0,31 days 00:00:00.000000000
+MAN,MATRIX,Matrix has been built as a distributed network of artificial intelligence and blockchain,0.53,2018-01-16 04:00:00,2018-02-15 04:00:00,0.48590000000000005,UTC+8,30 days 00:00:00.000000000
+KRI,Krios,Decentralised digital marketing platform,0.0,2018-01-08 22:00:00,2018-02-16 22:00:00,0.0,UTC+0,39 days 00:00:00.000000000
+REN,Republic Protocol,An opensource decentralized dark pool for trustless crosschain atomic trading of Ether ERC20 tokens and Bitcoin pairs,0.0,2018-02-03 13:56:00,2018-02-17 13:56:00,0.0,UTC+8,14 days 00:00:00.000000000
+VB,VaultBank,A blueprint for disintermediated financial services,0.0,2017-12-13 00:00:00,2018-02-18 00:00:00,0.0,UTC+0,67 days 00:00:00.000000000
+CLN,Colu Local Network,A decentralized payment system powered by everyday consumption,0.0,2018-02-14 14:00:00,2018-02-18 14:00:00,0.0,UTC+2,4 days 00:00:00.000000000
+OTG,Outing,The first community app dedicated to events in real time that rewards users with its own cryptocurrency usable anywhere in the world,0.0,2018-01-08 00:00:00,2018-02-18 23:59:59,0.0,UTC+1,41 days 23:59:59.000000000
+BTD,BITROAD,A modern solution for reliable global money transactions,0.75,2017-12-16 00:00:00,2018-02-20 00:00:01,-0.248,UTC+0,66 days 00:00:01.000000000
+TKLN,Taklimakan Network,The Blockchain Investment Platform,0.0,2017-12-12 10:00:00,2018-02-20 10:00:00,0.0,UTC+0,70 days 00:00:00.000000000
+BAX,BABB,Decentralised banking platform Access to a bank account for P2P financial services for anyone in the world,0.0,2018-02-06 08:33:00,2018-02-21 08:33:00,-0.9048,UTC+0,15 days 00:00:00.000000000
+BFC,BioFactoryCoin,BioFactoryCoin BFC the first factory in the world producing healthy milk production with availability for cryptocurrency payments,0.0,2017-11-27 10:00:00,2018-02-21 22:00:00,0.0,UTC+0,86 days 12:00:00.000000000
+CTN,Crypto Trust Network,Protecting you from cryptocurrency fraud,0.0,2018-01-22 18:00:00,2018-02-22 18:00:00,0.0,UTC+0,31 days 00:00:00.000000000
+LWF,Local World Forwarders,Local World Forwarders is the first decentralized logistics platform based on the blockchain,0.0,2018-01-23 12:00:00,2018-02-23 12:00:00,0.0,UTC+0,31 days 00:00:00.000000000
+OCN,Odyssey,ODYSSEYs mission is to build the nextgeneration decentralized sharing economy  Peer to Peer Ecosystem,0.0,2018-01-23 18:20:00,2018-02-23 18:27:00,0.0,UTC+0,31 days 00:07:00.000000000
+iRMC,Remechain,A Global Market place for the safe and secure trading of secondary metals,0.0,2018-01-25 00:00:00,2018-02-25 23:59:59,0.0,UTC+0,31 days 23:59:59.000000000
+HQX,HOQU,HOQU is the worlds first Decentralized Affiliate Platform,0.0,2017-11-27 00:00:00,2018-02-25 23:59:59,-0.9984999999999999,UTC+0,90 days 23:59:59.000000000
+PIP,PayPro,The first decentralized financialmarketplace as a DAO using Blockchain Technology,0.0,2018-01-08 21:00:00,2018-02-26 21:00:00,0.0,UTC+0,49 days 00:00:00.000000000
+SSH,StreamSpace,Blockchain powered Streaming Video on Demand Connecting content creators directly with consumers ,0.0,2018-01-15 11:00:00,2018-02-27 10:59:59,0.0,UTC--6,42 days 23:59:59.000000000
+MRK,MARK.SPACE,MARKSPACE is worlds first opensource platform for creation of 3D VR and ARcompatible websites units and objects and for their fast integration into a single ecosystem The platform is Blockchainbased and supported by miners,0.0,2018-01-23 00:00:00,2018-02-28 00:00:00,-0.9825,UTC+0,36 days 00:00:00.000000000
+RSN,RAISON,AI Platform for investment and personal finance,0.0,2018-02-01 00:00:00,2018-02-28 00:00:00,0.0,UTC+0,27 days 00:00:00.000000000
+BERRY,Rentberry,Decentralized Home Rental Platform,0.0,2017-12-05 00:00:00,2018-02-28 00:00:00,-0.9979,UTC+0,85 days 00:00:00.000000000
+STC,Stockchain Global,Stockchain Global brings a global blockchainbased platform to the market for issuance trading and management of financial instruments,0.0,2018-01-19 00:00:00,2018-02-28 00:00:00,0.0,UTC+0,40 days 00:00:00.000000000
+MLT,MultiGames,The first gaming online casino based on Ethereum,0.0,2018-01-08 00:00:00,2018-02-28 00:00:00,0.0,UTC+0,51 days 00:00:00.000000000
+HUR,Hurify,A Blockchain platform that aims to help SMEs build their IoT products  solution faster by connecting them to skilled IoT developers,0.0,2018-02-01 00:00:00,2018-02-28 00:00:00,0.0,UTC+0,27 days 00:00:00.000000000
+CcS,CacaoShares,Saving the Future of Chocolate using the Blockchain,0.0,2018-02-14 00:00:00,2018-02-28 00:00:00,0.0,UTC+9,14 days 00:00:00.000000000
+CID,Chain ID,Platform for keeping personal diplomas certificates and licenses in blockchain,0.0,2018-02-01 07:00:00,2018-02-28 07:00:00,0.0,UTC+0,27 days 00:00:00.000000000
+DADI,DADI,A new era of cloud computing services powered by blockchain technology,0.06,2018-01-22 12:00:00,2018-02-28 12:00:00,-0.7696,UTC+0,37 days 00:00:00.000000000
+LNC,Blocklancer,Blocklancer is a Decentralized Autonomous Job Market DAJ on the Ethereum platform,0.0,2018-01-16 13:00:00,2018-02-28 13:00:00,-0.9954999999999999,UTC+0,43 days 00:00:00.000000000
+BBCoin,Tradove,Token based businesstobusiness B2B marketing sales and trade platform,0.0,2018-02-01 18:21:00,2018-02-28 18:21:00,0.0,UTC+0,27 days 00:00:00.000000000
+VNX,Volinex,We make crypto easy,0.0,2017-12-15 20:00:00,2018-02-28 20:00:00,0.0,UTC+1,75 days 00:00:00.000000000
+LCD,Lucyd,Join the Augmented Reality Revolution with Lucyd,0.0,2017-10-17 20:00:00,2018-02-28 20:00:00,0.0,UTC+0,134 days 00:00:00.000000000
+DATx,DATx,A Blockchain Empowered Digital Advertising Terminal,0.0,2018-02-11 20:16:00,2018-02-28 20:16:00,0.0,UTC+8,17 days 00:00:00.000000000
+CPX,Apex,APEX passes value and data ownership back to consumers increases marketing effectiveness data quality and customer loyalty,0.0,2018-01-29 22:31:00,2018-02-28 22:00:00,0.0,UTC+0,29 days 23:29:00.000000000
+LYM,Lympo,Lympo is building an app a fitness wallet which will help people to reach their healthy lifestyle goals and earn tokens in return,0.0,2018-02-17 22:30:00,2018-02-28 22:31:00,-0.7826000000000001,UTC+0,11 days 00:01:00.000000000
+NCASH,Nucleus.Vision,An IoTbased contactless identification system that empowers retailers to identify and better serve their customers,0.0,2018-02-26 23:00:00,2018-02-28 23:00:00,-0.9017000000000001,UTC+0,2 days 00:00:00.000000000
+CS,CREDITS,CREDITS Cryptocurrency and Blockchain platform for the financial industry with more than 1 mln txsec and 001 sec for a transaction,0.11,2018-02-15 00:00:00,2018-02-28 23:59:00,0.5414,UTC+0,13 days 23:59:00.000000000
+DEEX,DEEX,The first ever created decentralized platform for convenient cryptocurrency trading,0.0,2018-01-10 00:00:00,2018-02-28 23:59:00,0.0,UTC+0,49 days 23:59:00.000000000
+VIOX,Vionex,Vionex is a revolutionary blockchainbased smart home system,0.0,2017-12-01 00:00:00,2018-02-28 23:59:59,0.0,UTC+0,89 days 23:59:59.000000000
+MDC,MinerDog,MinerDog coin pays you monthly dividends in Ether from profits of our crypto mining operations,0.0,2017-12-17 00:00:00,2018-02-28 23:59:59,-1.0,UTC+0,73 days 23:59:59.000000000
+NPX,NapoleonX,The first 100 algorithmic crypto asset manager,0.25,2018-01-22 12:00:00,2018-02-28 23:59:59,-0.7545000000000001,UTC+1,37 days 11:59:59.000000000
+HAWK,CryptoHawk,The worlds first AllinOne solution for cryptocurrencies,0.01,2018-01-01 00:00:00,2018-02-28 23:59:59,-0.9799,UTC+1,58 days 23:59:59.000000000
+KYC,KYC.LEGAL,KYCLEGAL is the identity verification platform on a blockchain,0.0,2017-11-29 00:00:00,2018-03-01 00:00:00,0.0,UTC+0,92 days 00:00:00.000000000
+CBC,Corusblock,Corusblock is the next generation of cryptocurrency Lending staking mining in best performance This is Corusblock,0.01,2018-02-01 00:00:00,2018-03-01 00:00:00,-0.9872,UTC+0,28 days 00:00:00.000000000
+WATR,WaterTech,Affordable clean water for everyone under the sun,0.0,2018-01-21 00:00:00,2018-03-01 00:00:00,0.0,UTC+0,39 days 00:00:00.000000000
+MTN,MedicalChain,Blockchain technology for secure storage and transfer of electronic health records It provides the infrastructure for digital health applications,0.01,2018-02-01 00:00:00,2018-03-01 00:00:00,-0.9775,UTC+0,28 days 00:00:00.000000000
+ECHT,e-Chat,Blockchainbased decentralized secure messenger and fastestgrowing social network,0.0,2018-01-08 12:00:00,2018-03-01 12:00:00,0.0,UTC+0,52 days 00:00:00.000000000
+ELEC,Electrify.asia,ELECTRIFY is the first retail electricity marketplace in SoutheastAsia addressing the need for transparency and security,0.0,2018-02-13 21:25:00,2018-03-01 21:26:00,0.0,UTC+0,16 days 00:01:00.000000000
+HBZ,Helbiz Coin,A Mobility Ecosystem set to reshape how we get from A to B making use of Blockchain Technology,0.0,2018-01-26 09:00:00,2018-03-04 09:00:00,0.0,UTC--5,37 days 00:00:00.000000000
+DAN,Daneel,Daneel purpose is to bring data intelligence into the crypto jungle,0.0,2018-01-29 13:21:00,2018-03-05 13:21:00,0.0,UTC+0,35 days 00:00:00.000000000
+IPSX,IP Sharing Exchange,IPSX is the first truly decentralized IP Sharing Exchange that will create a distributed network layer,0.0,2018-02-28 15:00:00,2018-03-05 15:00:00,0.0,UTC+2,5 days 00:00:00.000000000
+J8T,Jet8,JET8 is a decentralized mobile engagement network connecting influencers audiences and brands through the value of social currency,0.0,2018-02-28 06:00:00,2018-03-06 23:59:00,-0.9964,UTC+0,6 days 17:59:00.000000000
+HAV,Havven,A decentralised payment network and stable coin,0.25,2018-02-28 00:00:00,2018-03-06 23:59:00,-0.5064,UTC--8,6 days 23:59:00.000000000
+SRNT,Serenity,The First Blockchain Escrow for Financial Markets,0.01,2018-01-25 00:00:00,2018-03-07 23:59:59,-0.9186,UTC+0,41 days 23:59:59.000000000
+PHI,PHI Token,The Alibaba of Wealth Management PHI means Platform for Hybrid Investments but also Hybrid Platform for Investing,0.0,2018-03-03 08:00:00,2018-03-08 08:00:00,0.0,UTC+0,5 days 00:00:00.000000000
+GRAM,Telegram,UltraFast Blockchain technology from Telegram messenger,0.0,2018-03-08 10:00:00,2018-03-08 11:00:00,0.0,UTC+0,0 days 01:00:00.000000000
+DGZ,Dogezer,DoSoftwareTogether  Dogezer is a software development platform that allows team members to become product investors by investing their time and labor,0.0,2018-01-15 13:00:00,2018-03-08 13:00:00,0.0,UTC+0,52 days 00:00:00.000000000
+OCN,Ocean protocol,Ocean Protocol is an ecosystem for sharing data and associated services,0.0,2018-03-07 01:07:00,2018-03-09 01:07:00,0.0,UTC+0,2 days 00:00:00.000000000
+Ethix,Ethic Hub,Decentralized Crowdlending  Maximize returns from your money,0.0,2018-02-08 15:24:00,2018-03-09 15:24:00,0.0,UTC+1,29 days 00:00:00.000000000
+SHA,Safe Haven,The first inheritable digital asset,0.0,2018-02-24 00:00:00,2018-03-10 00:00:00,-0.9976,UTC+0,14 days 00:00:00.000000000
+CTF,Cryptotask,First fully scalable decentralized freelance task market,0.0,2018-02-03 12:00:00,2018-03-10 12:00:00,0.0,UTC+1,35 days 00:00:00.000000000
+SCR,Scrinium,The future of portfolio investment,0.0,2018-02-11 00:00:00,2018-03-11 00:00:00,0.0,UTC+0,28 days 00:00:00.000000000
+SPX,Sp8de,Sp8de is a blockchainbased platform capable of supplying unbiased public randomness for developing and running distributed gaming apps,0.04,2018-01-08 10:18:00,2018-03-11 10:18:00,3.056,UTC+0,62 days 00:00:00.000000000
+LDC,LeadCoin,A Decentralized Lead Sharing Network The blockchain technology feature of the LeadCoin platform enables realtime lead sharing,0.0,2018-03-01 10:00:00,2018-03-11 12:59:00,-0.9967,UTC+2,10 days 02:59:00.000000000
+CPT,Cryptaur,dApps launchpad and global marketplace without middlemen,0.0,2017-11-27 00:00:00,2018-03-12 00:00:00,0.0,UTC+0,105 days 00:00:00.000000000
+RFR,Refereum,Refereum cuts out the marketing middleman by directly rewarding influencers and gamers to promote and play video games,0.0,2018-02-12 00:00:00,2018-03-12 00:00:00,-0.92,UTC+0,28 days 00:00:00.000000000
+TT,TravelChain Project,DECENTRALIZED DATA EXCHANGE FOR THE TRAVEL INDUSTRY where travelers and businesses profit from sharing their info,0.0,2017-12-15 14:00:00,2018-03-12 14:00:00,0.0,UTC+0,87 days 00:00:00.000000000
+ODDZ,MyOddz.bet,Ethereum Blockchain Betting  Gambling with Profit Share,0.0,2018-02-12 17:00:00,2018-03-12 17:00:00,0.0,UTC+0,28 days 00:00:00.000000000
+PIIT,Prodeum,Tracking produce on the Ethereum blockchain,0.0,2018-01-20 01:00:00,2018-03-13 01:00:00,0.0,UTC--5,52 days 00:00:00.000000000
+LUC,Play2live,The first decentralized streaming platform for gamers and eSports fans,0.0,2018-02-21 17:00:00,2018-03-14 17:00:00,0.0,UTC+0,21 days 00:00:00.000000000
+VITO,VISO,VISO is a payment system that combines cryptocurrencies and traditional bank cards and terminals into one ecosystem,0.0,2017-11-25 00:00:00,2018-03-15 00:00:00,0.0,UTC+0,110 days 00:00:00.000000000
+DRG,Dragon Inc,Bringing Gaming into the 21st Century,0.1,2018-02-15 08:00:00,2018-03-15 08:00:00,-0.978,UTC+0,28 days 00:00:00.000000000
+MFG,SyncFab,Decentralized hardware manufacturing Syncfab helps to make use of Smart Manufacturing Blockchain,0.0,2018-02-15 08:00:00,2018-03-15 08:00:00,-0.9895999999999999,UTC+0,28 days 00:00:00.000000000
+DNO,DENARO,Cryptocurrency wallet and worldwide debit cards,0.0,2018-02-09 12:00:00,2018-03-15 11:59:00,0.0,UTC+0,33 days 23:59:00.000000000
+AIOM,AIOM,Medical analysis and research artificial intelligence application,0.0,2018-02-15 12:00:00,2018-03-15 12:00:00,0.0,UTC+2,28 days 00:00:00.000000000
+XCD,Capdax,Capdax is one of the first exchanges that introduces premium customer service social trading and infrastructure stability,0.0,2018-02-17 05:00:00,2018-03-17 05:00:00,0.0,UTC+0,28 days 00:00:00.000000000
+VLD,VALID,VALID is a fully integrated personal data management platform,0.0,2018-02-24 12:00:00,2018-03-17 12:00:00,0.0,UTC+0,21 days 00:00:00.000000000
+EGL,eGold,The ultimate eSports betting cryptocurrency,0.0,2018-02-01 08:00:00,2018-03-18 20:00:00,0.0,UTC+0,45 days 12:00:00.000000000
+NOAH,NOAH COIN,NOAHCOIN is Creating A Borderless World Through Blockchain to help empower people financially,0.0,2017-12-01 05:21:00,2018-03-19 05:21:00,-0.9906999999999999,UTC+0,108 days 00:00:00.000000000
+GBX,Globitex,An institutionalgrade cryptocurrency exchange allowing everyone to trade commodities and money market instruments for Bitcoin,0.0,2018-02-10 17:00:00,2018-03-19 17:00:00,0.0,UTC+0,37 days 00:00:00.000000000
+OPP,Opporty,Opporty is a decentralized service marketplace and selfregulated knowledgesharing community platform,0.0,2018-02-01 00:00:00,2018-03-20 00:00:00,0.0,UTC+0,47 days 00:00:00.000000000
+ADH,AdHive,The first AIpowered platform for influencer marketing,0.0,2018-02-21 14:00:00,2018-03-21 14:00:00,0.0,UTC+0,28 days 00:00:00.000000000
+VIEW,Viewly,Viewly is a decentralized video platform powered by blockchain and peertopeer video sharing technologies,0.0,2018-02-22 08:18:00,2018-03-22 08:18:00,0.0,UTC+0,28 days 00:00:00.000000000
+CAPP,Cappasity,Decentralized ARVR ecosystem for 3D content exchange,0.0,2018-02-22 13:00:00,2018-03-22 13:00:00,-0.8569,UTC+0,28 days 00:00:00.000000000
+ORI,Origami Network,BlockchainPowered global solution that builds decentralized online marketplaces faster and easier than current models,0.0,2018-02-23 13:19:00,2018-03-23 13:19:00,-0.9679000000000001,UTC+0,28 days 00:00:00.000000000
+CNK,Crypto N Kafe,First coffee trading ecosystem entirely supporting smallscale farmers traders roasters and retailers,0.0,2018-01-18 11:00:00,2018-03-25 11:00:00,0.0,UTC+0,66 days 00:00:00.000000000
+FUNDZ,FundFantasy,FundFantasy is an online social platform featuring peertopeer provablyfair simulated investing contests,0.0,2018-02-25 12:00:00,2018-03-25 12:00:00,0.0,UTC+0,28 days 00:00:00.000000000
+VTP,Vestopia,Vestopia is a decentralized peertopeer investment ecosystem connecting the mass population to wealth and investment opportunities in an unprecedented model,0.0,2018-01-25 00:00:00,2018-03-26 00:00:00,0.0,UTC+0,60 days 00:00:00.000000000
+XNT,Exenium,EXENIUM is a fullyfunctional cryptocurrency exchange implemented as a chatbot for messengers,0.0,2018-02-14 00:00:00,2018-03-26 00:00:00,0.0,UTC+0,40 days 00:00:00.000000000
+YOU,SELFLLERY,The Social Platform for Visual Content Monetization,0.0,2018-03-05 12:00:00,2018-03-26 12:00:00,0.0,UTC+3,21 days 00:00:00.000000000
+GIL,Gilgamesh,KnowledgeSharing social network platform powered by Ethereum Blockchain,0.0,2018-01-16 16:00:00,2018-03-26 16:00:00,0.0,UTC+0,69 days 00:00:00.000000000
+BOOL,Booleancoin,Booleancoin Powers Boolean A News Accuracy Platform Aiming To Combat Fake News In The Media,0.0,2017-11-01 00:00:00,2018-03-27 00:00:00,0.0,UTC+0,146 days 00:00:00.000000000
+NAC,Nami.trade,A blockchain broker which will bring no spread no swap and no commission to traders worldwide,0.0,2018-02-01 00:00:00,2018-03-28 23:59:00,0.0,UTC+7,55 days 23:59:00.000000000
+WCO,Winco,Solutions for the decentralization of startups financing the franchise market and the real estate market,0.0,2018-02-19 06:14:00,2018-03-29 06:15:00,0.0,UTC--3,38 days 00:01:00.000000000
+JOY,Joy Token,Joy Token is a new development platform specifically for the creation and marketing of online casino games,0.0,2018-02-27 17:00:00,2018-03-29 17:00:00,0.0,UTC+0,30 days 00:00:00.000000000
+WIN,WAWLLET,Worlds first multiasset wallet and personal financial passport,0.0,2018-01-29 10:00:00,2018-03-30 09:59:00,-0.9998999999999999,UTC+0,59 days 23:59:00.000000000
+CDG,CDG,Technology which covers the treatment process of raw domestic waste and green waste from agriculture,0.0,2018-03-15 12:00:00,2018-03-30 12:00:00,0.0,UTC+7,15 days 00:00:00.000000000
+RQX,Requitix,Trusted Token and Confidence System,0.0,2018-02-20 00:00:01,2018-03-31 00:00:01,0.0,UTC+0,39 days 00:00:00.000000000
+ESB,ENS.BID,ENSBID focuses on offering the best identity storage and domain name service to the decentralized world of Ethereum,0.0,2018-01-10 01:00:00,2018-03-31 01:00:00,0.0,UTC+0,80 days 00:00:00.000000000
+WIKI,Wikibits,Be Part of the Next Generation Wiki,0.0,2017-12-15 05:00:00,2018-03-31 05:00:00,0.0,UTC+0,106 days 00:00:00.000000000
+PITCH,Pitch,Entrepreneurs and Startups can Pitch Investors Live on the Platform,0.0,2018-02-28 05:55:00,2018-03-31 05:55:00,0.0,UTC+0,31 days 00:00:00.000000000
+THT,Thought,Eliminate Traditional Applications with Data That Thinks,0.0,2018-03-01 09:00:00,2018-03-31 09:00:00,0.0,UTC--5,30 days 00:00:00.000000000
+YUP,Crowdholding,A Decentralized Open Innovation platform that connects entrepreneurs and supporters,0.0,2017-11-01 10:00:00,2018-03-31 10:00:00,0.0,UTC+2,150 days 00:00:00.000000000
+RNTB,BitRent,First decentralized Blockchain construction platform,0.0,2017-11-24 11:00:00,2018-03-31 11:00:00,-0.9987999999999999,UTC+0,127 days 00:00:00.000000000
+BEEF,BeefCoin,Integrated production of organic beef from farm to table,0.0,2018-01-01 12:00:00,2018-03-31 12:00:00,0.0,UTC+0,89 days 00:00:00.000000000
+FSBT,Forty Seven Bank,Forty Seven Bank is financial technology startup aimed at building a bridge between cryptocurrency world and the world of traditional monetary finance,0.15,2017-11-16 13:00:00,2018-03-31 13:00:00,-0.9079,UTC+0,135 days 00:00:00.000000000
+HION,Handelion,Handelion is a revolutionary blockchain ecosystem for cofunded wholesale trade,0.0,2017-12-15 13:00:00,2018-03-31 13:00:00,0.0,UTC+2,106 days 00:00:00.000000000
+RTB,AB-CHAIN,ABCHAIN ADVERTISING NETWORK  Blockchain and AI for enhanced campaigns,48.88,2018-02-19 09:00:00,2018-03-31 21:00:00,138.65709999999999,UTC+0,40 days 12:00:00.000000000
+GES,Galaxy eSolutions,A global distribution and ecommerce marketplace for refurbished consumer electronics,0.0,2018-02-28 12:00:00,2018-03-31 23:59:00,0.0,UTC+0,31 days 11:59:00.000000000
+Eroiy,Eroiy,The anonymous and safe payment method of the adult industry through the infusion of Blockchain,0.0,2018-01-30 00:00:00,2018-03-31 23:59:00,0.0,UTC+0,60 days 23:59:00.000000000
+SKCH,Skychain,Blockchain infrastructure aimed to host train and use artificial intelligence AI in healthcare,0.0,2018-02-26 00:00:00,2018-03-31 23:59:00,0.0,UTC+1,33 days 23:59:00.000000000
+XCLR,Clearcoin,ClearCoin is a technology company that powers the realtime buying and selling of media on decentralized applications and the broader digital environment,0.0,2017-11-16 00:00:01,2018-03-31 23:59:59,-0.9912000000000001,UTC--8,135 days 23:59:58.000000000
+FT,Fabric Token,Draganddrop smart contracts,0.0,2018-02-15 10:00:00,2018-04-01 10:00:00,-0.9693,UTC+0,45 days 00:00:00.000000000
+TCT,The Coffee Token,First and only global decentralized ecosystem directly connecting coffee producers and consumers using the blockchain technology,0.0,2018-02-14 10:00:00,2018-04-01 10:00:00,0.0,UTC--6,46 days 00:00:00.000000000
+TrueCoin,True Reply,True Reply is the future of voicebased datacollection across IoT devices and telephones,0.0,2018-03-01 13:30:00,2018-04-01 13:30:00,0.0,UTC--5,31 days 00:00:00.000000000
+IPC,PAYSURA,PAYSURA is providing the International PayReward Coin IPC in order to create a worldwide uniform reward system that applies the advantages of the Blockchain Technology,0.0,2018-03-03 13:00:00,2018-04-02 12:59:59,-0.9882,UTC+0,29 days 23:59:59.000000000
+NKR,Nkor,Solving copyright issues forever,0.0,2018-03-03 00:00:00,2018-04-02 23:59:59,0.0,UTC+0,30 days 23:59:59.000000000
+,HASHBUX,Decentralized online Gaming EcoSystem for Gamers,0.0,2018-03-26 15:00:00,2018-04-03 14:00:00,0.0,UTC+0,7 days 23:00:00.000000000
+BITTO,BITTO Exchange,Bitcoin Exchange with 6 in 1 consisting of LendingStakingSignalReferralBorrowingTrading,0.0,2018-01-16 00:00:00,2018-04-03 23:59:59,0.0,UTC+0,77 days 23:59:59.000000000
+ELET,Ether Legends (ELET),Ethereum Based Collectible Trading Card Game driven by the gaming platform token elementeum ELET,0.0,2018-02-15 00:00:00,2018-04-04 00:00:00,0.0,UTC+0,48 days 00:00:00.000000000
+AMN,Amon,Enabling crypto spending in everyday life,0.0,2018-03-04 09:00:00,2018-04-04 09:00:00,0.0,UTC+0,31 days 00:00:00.000000000
+VST,Vestarin,Cryptocurrency market place for goods and services,0.0,2018-03-05 12:00:00,2018-04-04 12:00:00,0.0,UTC+0,30 days 00:00:00.000000000
+THRT,Thrive,Blockchainbased Decentralized Advertising Marketplace,0.0,2018-02-15 10:00:00,2018-04-05 10:00:00,0.0,UTC+0,49 days 00:00:00.000000000
+R3S,R3SEC,Moving target defense  ultimate security on blockchain,0.0,2018-03-20 12:00:00,2018-04-05 12:00:00,0.0,UTC+0,16 days 00:00:00.000000000
+REPUX,RepuX,RepuXs blockchainbacked platform enables Small and Medium Enterprises SMEs to securely sell their data,0.0,2018-03-06 06:17:00,2018-04-05 17:00:00,0.0,UTC+0,30 days 10:43:00.000000000
+,Bank of Hash Power,The blockchain financial system guaranteed by Hash Power enable easiest access to crypto portfolio and trade settlement for EVERYONE,0.0,2018-03-07 00:00:00,2018-04-05 23:59:00,0.0,UTC+0,29 days 23:59:00.000000000
+RTM,Renteum,Renteum is going to be the first of its kind to tie its token to realestate in Scandinavia and England,0.0,2018-01-04 00:00:00,2018-04-08 00:00:00,0.0,UTC+1,94 days 00:00:00.000000000
+BLS,Bills,Bills is a technology that allows placing advertisements to an outdoor billboard located in any part of the world within a couple of minutes,0.0,2018-03-08 00:00:00,2018-04-08 00:00:00,0.0,UTC+0,31 days 00:00:00.000000000
+SAT,Sandblock,Rewarding customers for their loyalty engagement and feedback using cryptocurrencies,0.0,2018-03-21 14:00:00,2018-04-08 15:00:00,0.0,UTC+1,18 days 01:00:00.000000000
+VLB,VLB,The number one blockchain fuel for the transport industry,0.0,2018-02-05 12:00:00,2018-04-09 12:00:00,0.0,UTC+0,63 days 00:00:00.000000000
+SGN,Signals Network,Data science marketplace to help you discover create and monetize cryptocurrency trading,0.0,2018-03-12 14:00:00,2018-04-09 14:00:00,0.0,UTC+0,28 days 00:00:00.000000000
+GZR,Gizer,The real global gaming network,0.0,2018-03-16 12:00:00,2018-04-10 12:00:00,0.0,UTC+0,25 days 00:00:00.000000000
+MDTK,MD Tokens,Creating a universal digital payment engine to power a smart secure and efficient healthcare ecosystem accessible anywhere at anytime,0.0,2018-03-10 16:00:00,2018-04-10 16:00:00,0.0,UTC+0,31 days 00:00:00.000000000
+CC,CUBAAZ,Travel for a Blockchain Era  Pay for goods and services whiles enjoying great discounts,0.0,2018-01-05 23:59:00,2018-04-10 23:59:00,0.0,UTC+0,95 days 00:00:00.000000000
+ONL,On.Live,An open and decentralized platform for video broadcast and remote consultations markets,0.0,2018-03-11 11:00:00,2018-04-11 11:00:00,0.0,UTC+0,31 days 00:00:00.000000000
+RXL,RxEAL,The latest way to profit from Real Estate,0.0,2018-03-12 12:00:00,2018-04-11 12:00:00,0.0,UTC+0,30 days 00:00:00.000000000
+MLC,FLOGmall,An international ecommerce site created for users  from all over the world who sell and buy various products and services with tokens,0.0,2018-03-22 07:59:00,2018-04-12 07:59:00,0.0,UTC+3,21 days 00:00:00.000000000
+MZX,Mosaic,Decentralized Market Intelligence Network for Publishers and Stakeholders,0.0,2018-02-14 20:56:00,2018-04-12 20:56:00,0.0,UTC+0,57 days 00:00:00.000000000
+VIOLA,Viola.AI,ViolaAI is the Worlds First AIdriven Marketplace for Dating and Relationships with real business backing of 13 years,0.0,2018-03-14 04:00:00,2018-04-13 04:00:00,0.0,UTC+0,30 days 00:00:00.000000000
+iLT,iOlite,iOlite allows anyone to write smart contract using any language natural or programming,0.0,2018-03-27 05:00:00,2018-04-14 00:00:00,0.0,UTC+0,17 days 19:00:00.000000000
+SPEND,MoxyOne,Branded debit cards and secure payment infrastructure for all companies and ICOs that issue cryptocurrencies,0.0,2018-03-14 01:00:00,2018-04-14 01:00:00,0.0,UTC+0,31 days 00:00:00.000000000
+COTI,COTI,COTI Currency of the Internet spearheading the mass adoption of digital currencies,0.0,2018-03-31 11:00:00,2018-04-14 11:00:00,0.0,UTC+0,14 days 00:00:00.000000000
+RTW,RentAway,RentAway is an online global platform the unique rental marketplace that will facilitate rental transactions between private individuals peertopeer and businesses for a wide range of goods equipment and real estate,0.0,2018-03-01 00:00:00,2018-04-15 00:00:00,0.0,UTC+0,45 days 00:00:00.000000000
+NCC,NeuroChain,Implementing AI at the heart of the Blockchain,0.0,2018-03-19 08:00:00,2018-04-15 08:00:00,0.0,UTC+0,27 days 00:00:00.000000000
+NVB,Native Video Box,An independent video distribution platform with native eco approach to advertising based on machine learning,0.0,2017-12-01 00:00:00,2018-04-15 11:59:59,0.0,UTC+0,135 days 11:59:59.000000000
+MDX,Midex,Midex makes cryptocurrency use accessible to business traders and everyday users Midex is a financial ecosystem which encompasses the needs of each economic agent through a fully licensed and encrypted exchange,0.0,2018-01-15 00:00:00,2018-04-15 23:59:59,0.0,UTC+0,90 days 23:59:59.000000000
+NODE,Node,Intelligent Technology for Wireless Energy For Private and Commercial Use,0.0,2018-02-15 00:00:00,2018-04-16 00:00:00,0.0,UTC+2,60 days 00:00:00.000000000
+BTT,BITETHER,Dapp for gaming tournament and lending platform,0.0,2018-03-16 00:00:00,2018-04-16 00:00:00,0.0,UTC+0,31 days 00:00:00.000000000
+BPX,BLOCKPIX,Ecommerce Solution for the Creative and Entertainment Industry,0.0,2018-03-18 12:00:00,2018-04-18 12:00:00,0.0,UTC+2,31 days 00:00:00.000000000
+HMT,Hamster Marketplace,Decentralized trading platform for sale of innovative indiegadgets run by manufacturers,0.0,2018-02-19 00:00:00,2018-04-19 00:00:00,0.0,UTC+3,59 days 00:00:00.000000000
+MTP,MoneyTap Token,App that allows bank customers to settle transactions instantly,0.0,2018-03-23 08:30:00,2018-04-19 08:30:00,0.0,UTC+0,27 days 00:00:00.000000000
+GIFT,Giftcoin,Giftcoin is a groundbreaking new system designed to revolutionise charitable giving,0.0,2018-03-20 09:30:00,2018-04-19 10:00:00,0.0,UTC--5,30 days 00:30:00.000000000
+BNE,Benebit,Benebit is a global decentralized ecosystem that enables interaction without borders between brands companies and consumers and is built on Blockchain technology,0.0,2018-01-22 13:00:00,2018-04-19 13:00:00,0.0,UTC+0,87 days 00:00:00.000000000
+XYO,XYO Network,With over 1 million locationverifying beacons already in the world XYO is blockchain39s first cryptolocation oracle network,0.0,2018-03-20 00:00:00,2018-04-20 00:00:00,0.0,UTC--8,31 days 00:00:00.000000000
+PON,Ponder,A decentralized matchmaking platform revolutionizing how people meet,0.0,2018-02-14 14:00:00,2018-04-20 06:00:00,0.0,UTC+0,64 days 16:00:00.000000000
+,BitCar,PeertoPeer exotic car trading platform using Blockchain Technology for precision speed and lowered transaction cost,0.0,2018-01-31 07:00:00,2018-04-20 07:00:00,0.0,UTC+0,79 days 00:00:00.000000000
+REXX,Rexpax,Rexpax encourages lending and sharing among neighbors,0.0,2018-03-20 09:00:00,2018-04-20 09:00:00,0.0,UTC--4,31 days 00:00:00.000000000
+DHT,DeHedge,RiskHedging Platform for cryptocurrency investors DeHedge helps the investor guard against market volatility,0.0,2018-03-15 11:00:00,2018-04-20 11:00:00,0.0,UTC+0,36 days 00:00:00.000000000
+KRL,Kryll.io,Bringing professional trading tools to everyone,0.0,2018-02-07 12:00:00,2018-04-20 12:00:00,0.0,UTC+0,72 days 00:00:00.000000000
+AUC,Auctus,Smart Contract Powered Retirement Plans AUCTUS Helps People Plan Ahead of Retirement,0.0,2018-04-10 14:00:00,2018-04-20 14:00:00,0.0,UTC+0,10 days 00:00:00.000000000
+XPST,PokerSports,Decentralized  community driven platform that integrates Blockchain iGaming eSports and Fantasy Sports,0.0,2018-02-24 12:00:00,2018-04-21 12:00:00,0.0,UTC--7,56 days 00:00:00.000000000
+SMRT,SMRT,The Smart Startup Token project is Making Blockchain Accessible to Startups and Small Businesses,0.0,2018-03-24 14:00:00,2018-04-21 14:00:00,0.0,UTC+1,28 days 00:00:00.000000000
+LND,Lendingblock,Fully collateralised borrowing and lending of crypto assets,0.0,2018-04-15 15:00:00,2018-04-22 15:00:00,0.0,UTC+0,7 days 00:00:00.000000000
+ALX,ALAX,The Blockchain Appstore Designed for Gamers,0.0,2018-04-17 10:30:00,2018-04-23 10:30:00,0.0,UTC+0,6 days 00:00:00.000000000
+SET,FolleX,Global Cryptocurrency Exchange and interactive Social platform,0.0,2018-03-23 12:00:00,2018-04-23 12:00:00,0.0,UTC+0,31 days 00:00:00.000000000
+OTC,Otcrit,Advanced Cryptocurrency Exchange and Informational Marketplace,0.07,2018-02-15 18:00:00,2018-04-23 18:00:00,-0.7236,UTC+1,67 days 00:00:00.000000000
+PAT,Bitnation,Pangea Arbitration Token PAT powers the Pangea Jurisdiction,0.0,2018-03-25 12:00:00,2018-04-24 11:00:00,0.0,UTC+0,29 days 23:00:00.000000000
+CQT,Checqit,The Smartest Decentralized Peertopeer lending platform,0.0,2018-03-24 12:00:00,2018-04-24 11:59:00,0.0,UTC--5,30 days 23:59:00.000000000
+GLU,Gluon,Gluons platform establishes an interconnected network of vehicles and owners for diagnostics,0.0,2018-03-27 00:00:00,2018-04-27 14:59:00,0.0,UTC--7,31 days 14:59:00.000000000
+DAPG,DapCash,First postquantum crypto currency with multiple blockchain,0.0,2018-02-21 00:00:00,2018-04-28 00:00:00,0.0,UTC+7,66 days 00:00:00.000000000
+ASTOR,AstorGame,eSport  Online Gaming platform  Decentralized games Sports Betting and Casino using blockchain smart contracts  Provably Fair,0.0,2018-01-29 00:00:00,2018-04-29 00:00:00,0.0,UTC+0,90 days 00:00:00.000000000
+CJT,Connectjob,ConnectJob ultimately connects jobs to people and people to jobs using the power of blockchain technology,0.0,2017-12-01 00:00:00,2018-04-30 00:00:00,-0.9981,UTC+0,150 days 00:00:00.000000000
+XLS,Galaxis,A platform with optional private  smart contracts and feeless transactions,0.0,2018-03-01 00:00:00,2018-04-30 00:00:00,0.0,UTC--5,60 days 00:00:00.000000000
+CRL,Corl,Revenue sharing on the blockchain A regular stream of quarterly profit payments,0.0,2018-04-01 06:56:00,2018-04-30 06:56:00,0.0,UTC+0,29 days 00:00:00.000000000
+FIC,FloraFIC,Applied technology of AI and blockchain to work together via the smart FIC application,0.0,2018-03-08 12:00:00,2018-04-30 11:59:00,0.0,UTC+7,52 days 23:59:00.000000000
+ROX,Robotina,Internet Of Things Artificial Intelligence  Blockchain empowering energy consumers,0.0,2018-03-21 15:30:00,2018-04-30 14:59:00,0.0,UTC+1,39 days 23:29:00.000000000
+FOXT,Fox Trading,Exclusive Trading Service for Forex and Cryptocurrencies for maximized earnings,0.0,2018-03-10 15:00:00,2018-04-30 15:00:00,0.0,UTC+1,51 days 00:00:00.000000000
+CRL,Cryptelo,Platform for encrypted data sharing,0.0,2018-03-15 17:00:00,2018-04-30 17:00:00,0.0,UTC+0,46 days 00:00:00.000000000
+CRTL,Cartel Chain,A seamless ecommerce continuum Eliminating middle men reducing global carbon emissions and more,0.0,2018-03-11 00:00:00,2018-04-30 23:59:00,0.0,UTC+7,50 days 23:59:00.000000000
+MCU,MediChain.Online,MediChain will bring better health to patients with the help of blockchain technology,0.0,2018-03-01 00:00:00,2018-04-30 23:59:00,0.0,UTC+0,60 days 23:59:00.000000000
+TCO,ThinkCoin,ThinkCoin is a Multi Asset Trading which leverages blockhain technology to ensure that investors get optimal returns,0.0,2018-04-17 00:00:00,2018-04-30 23:59:00,0.0,UTC+0,13 days 23:59:00.000000000
+WIIX,WIIX,Innovations Global Opportunites and a new World with Blockchain Technology,0.0,2018-04-01 00:00:00,2018-04-30 23:59:00,0.0,UTC--5,29 days 23:59:00.000000000
+ETY,Etherty,Platform that utilizes blockchain technology to provide a onestop solution for the purchase sale and crowdsale of real estate globally,0.0,2018-03-15 00:00:00,2018-04-30 23:59:00,0.0,UTC+0,46 days 23:59:00.000000000
+IPS,IPStock,IPStock implements visual digital content registry on blockchain and license management through smartcontracts,0.0,2018-04-01 00:00:00,2018-04-30 23:59:00,0.0,UTC+1,29 days 23:59:00.000000000
+EEE,Elementh,Elementh is a blockchain designed for the ecommerce market,0.0,2018-04-01 00:00:00,2018-05-01 00:00:00,0.0,UTC+0,30 days 00:00:00.000000000
+DNN,Decentralized News Network,DNN is a Political News Platform Fighting Fake News and Combating Censorship,0.0,2018-04-03 00:00:00,2018-05-01 00:00:00,0.0,UTC+0,28 days 00:00:00.000000000
+KRC,Kerberos Coin,Altcoin Mining Operation Using Smart Contracts  Based On the Ethereum Blockchain,0.0,2018-04-01 12:00:00,2018-05-01 12:00:00,0.0,UTC+0,30 days 00:00:00.000000000
+PMNT,Paymon,Paymon is a blockchain platform that connect all market participants through new scalable blockchain  Hive,0.0,2018-03-30 14:00:00,2018-05-03 23:00:00,0.0,UTC+1,34 days 09:00:00.000000000
+CEEK,CEEK,Virtual Reality platform for streamed live events and productions making use of Blockchain Technology,0.0,2018-04-16 05:01:00,2018-05-04 04:59:00,0.0,UTC+0,17 days 23:58:00.000000000
+NKL,Nickelcoin,Deploying Blockchain tehnology to Customers Loyalty Rewards,0.0,2018-04-26 12:00:00,2018-05-07 12:00:00,0.0,UTC+0,11 days 00:00:00.000000000
+ITM,intimate.io,Intimate is a cryptocurrency facilitating payments and trust for the adult industry,0.0,2018-04-26 09:00:00,2018-05-08 09:00:00,0.0,UTC+0,12 days 00:00:00.000000000
+ELI,ELIGMA,AIdriven and blockchainbased cognitive commerce platform,0.0,2018-04-17 11:00:00,2018-05-08 11:00:00,0.0,UTC+1,21 days 00:00:00.000000000
+PAT,PATRON,PATRON is a one stop shop for social media influencers worldwide whiles using blockchain technology and cryptocurrency,0.0,2018-03-27 08:00:00,2018-05-08 23:59:00,0.0,UTC--9,42 days 15:59:00.000000000
+MVP,BlocSide Sports,Innovating Optimizing  Reimagining the Fan Experience with the infusion of Blockchain Technology,0.0,2018-03-29 11:00:00,2018-05-09 11:00:00,0.0,UTC--8,41 days 00:00:00.000000000
+NXLS,Nexusless,Peertopeer content delivery network where anyone can monetize the unused capacity of their computers and smartphones,0.0,2018-04-18 12:00:00,2018-05-09 12:00:00,0.0,UTC+0,21 days 00:00:00.000000000
+OMX,Shivom,The Global BlockchainGenomics Ecosystem Powering the Next Era of Precision Medicine,0.0,2018-05-03 13:00:00,2018-05-10 23:59:00,0.0,UTC+0,7 days 10:59:00.000000000
+PLAT,BitGuild,BitGuild will disrupt the gaming industry by creating a platform for games that live on the blockchain,0.0,2018-04-11 20:11:00,2018-05-11 20:11:00,0.0,UTC+0,30 days 00:00:00.000000000
+LNS,Lunes Platform,Lunes is a platform which provides a set of decentralized solutions through blockchain,0.0,2018-04-15 00:00:00,2018-05-15 00:00:00,0.0,UTC--3,30 days 00:00:00.000000000
+AMBT,Ambit,Every bit of your future secured on the Blockchain Ambit helps everyone earn from cryptocurrency mining,0.0,2018-04-20 00:00:00,2018-05-15 00:00:00,0.0,UTC+0,25 days 00:00:00.000000000
+Arcona,Arcona,Blockchain powered augmented reality ecosystem merging real and virtual worlds worldwide creating augmented reality layer  the Digital Land,0.0,2018-04-15 00:00:00,2018-05-15 00:00:00,0.0,UTC+2,30 days 00:00:00.000000000
+eFIC,FIC Network,Earn and Pay Interest on Your Crypto Assets Fixed Income Infrastructure on Blockchain,0.0,2018-01-18 00:00:00,2018-05-15 12:00:00,0.0,UTC+0,117 days 12:00:00.000000000
+EMAC,eMarketChain,The blockchainpowered ecommerce platform with 0 commissions on every purchase,0.0,2018-04-15 14:00:00,2018-05-15 14:00:00,0.0,UTC+0,30 days 00:00:00.000000000
+BBT,Brickblock,invest Cryptocurrencies in Real World Assets in a process to encourage mainstream adoption,0.15,2018-04-30 13:00:00,2018-05-15 19:00:00,-0.7506999999999999,UTC+0,15 days 06:00:00.000000000
+CRGO,CargoCoin,Revolutionaising Global Trade and Transport through Decentralisation with a focus on the shipping industry,0.0,2018-04-16 00:00:00,2018-05-15 23:59:00,0.0,UTC+0,29 days 23:59:00.000000000
+SPD,Spindle,Transparency and Autonomy in Investment powered through the use of the unique Blockchain Technology,0.01,2018-05-09 00:00:00,2018-05-15 23:59:00,-0.9092,UTC+0,6 days 23:59:00.000000000
+RLTY,SMARTRealty,SMARTRealty is revolutionizing the real estate industry,0.0,2018-02-15 00:00:00,2018-05-15 23:59:00,0.0,UTC+0,89 days 23:59:00.000000000
+WPT,Worldopoly,Mobile gaming combined with Augmented Reality,0.0,2018-04-26 00:00:00,2018-05-17 23:59:00,0.0,UTC--8,21 days 23:59:00.000000000
+STT,Synthestech,Synthestech is a scientific research center engaged in technology development for synthesis of precious metals and valuable isotopes,0.0,2018-03-18 00:00:00,2018-05-18 00:00:00,0.0,UTC+0,61 days 00:00:00.000000000
+WT,WorldWiFi,Decentralized free wifi network powered by blockchain,0.0,2018-04-18 00:00:00,2018-05-18 00:00:00,0.0,UTC+3,30 days 00:00:00.000000000
+GOL,Goldiam,The Future of Gold and Diamond mining,0.0,2018-04-09 08:00:00,2018-05-18 08:00:00,0.0,UTC+1,39 days 00:00:00.000000000
+DREAM,DreamTeam,DreamTeam  Infrastructure platform and payment gateway for esports and gaming,0.03,2018-04-12 17:00:00,2018-05-19 17:00:00,-0.8315,UTC+0,37 days 00:00:00.000000000
+MIRA,Mira,Mira is a software suite for buying storing and sending cryptocurrencies in an easy and convenient way,0.0,2018-04-20 08:00:00,2018-05-20 08:00:00,0.0,UTC+0,30 days 00:00:00.000000000
+FRYA,FrYA,Blockchain solution for Businesses of all size shapes and form for improved processes and systems efficiency,0.0,2018-04-10 09:00:00,2018-05-20 09:00:00,0.0,UTC+0,40 days 00:00:00.000000000
+WEM,WindEnergyMining,Green Energy Green Mining Cryptocurrency mining in an ecofriendly environment,0.0,2018-03-20 10:00:00,2018-05-20 10:00:00,0.0,UTC+2,61 days 00:00:00.000000000
+UBT,Unibright,The unified framework for blockchain based business integration to maximize efficiency and profits,0.0,2018-04-20 13:00:00,2018-05-20 13:00:00,0.0,UTC+0,30 days 00:00:00.000000000
+LIKE,LikeCoin,LikeCoin aims to reinvent the Like by realigning creativity and reward,0.0,2018-05-07 00:00:00,2018-05-21 23:59:00,0.0,UTC+8,14 days 23:59:00.000000000
+CMCT,Crowd Machine,Crowd Machine is powering the next generation of decentralized blockchain applications,0.0,2018-04-01 00:00:00,2018-05-22 23:59:00,0.0,UTC+0,51 days 23:59:00.000000000
+RTC,Rentything,Rentything  Worlds 1st Decentralized P2P Renting Platform Airbnb for Everything RentGetPaid,0.0,2018-04-25 13:00:00,2018-05-23 13:00:00,0.0,UTC+0,28 days 00:00:00.000000000
+MVL,Mass Vehicle Ledger,Mass Vehicle Ledger Ecosystem MVL Ecosystem pronounced as embuh l Ecosystem is a new blockchainbased ecosystem created for use in the vehicle industry,0.0,2018-05-15 21:00:00,2018-05-24 21:00:00,0.0,UTC+9,9 days 00:00:00.000000000
+GAI,GraphGrail AI,Artificial intelligence platform for blockchain built on the basis of natural language processing technologies,0.0,2018-02-19 08:00:00,2018-05-25 08:00:00,0.0,UTC+0,95 days 00:00:00.000000000
+SMOKE,SMOKE,SMOKE is the cryptocurrency of the SmokeNetwork The first cannabis community to combine blockchain technology with soc,0.04,2018-04-20 12:00:00,2018-05-25 12:00:00,-0.5555,UTC+0,35 days 00:00:00.000000000
+BUNNY,BunnyToken,BunnyToken is a payment solution for the 103 billion adult industry,0.0,2018-04-25 14:00:00,2018-05-25 23:59:00,0.0,UTC+0,30 days 09:59:00.000000000
+MMTM,MobileBridge,The Blockchain and cryptotoken based marketing automation platform for optimized market performance,0.0,2018-04-26 00:00:00,2018-05-25 23:59:00,0.0,UTC+0,29 days 23:59:00.000000000
+CADV,Coinadvisor,Coinadvisor is a trading platform for arbitrage bot and a multi accounts management tool,0.0,2018-04-27 00:00:00,2018-05-27 23:59:00,0.0,UTC+1,30 days 23:59:00.000000000
+TSR,TransCrypt,Send and receive money like a text or email messages through encryption,0.0,2018-04-30 00:00:00,2018-05-27 23:59:00,0.0,UTC--8,27 days 23:59:00.000000000
+XSO,Xsolus,Blockchain Services and Product Ecosystem Development bringing many benefits to users and stakeholders,0.0,2018-05-01 15:00:00,2018-05-29 14:59:00,0.0,UTC+0,27 days 23:59:00.000000000
+DTC,DateCoin,The fastest successful match,0.0,2018-03-30 00:00:00,2018-05-30 00:00:00,0.0,UTC+0,61 days 00:00:00.000000000
+ADBL,Adblurb,The Future of Advertising Adblur helps to make marketing and advertising very easy and it reduces costs,0.0,2018-05-01 00:00:00,2018-05-30 00:00:00,0.0,UTC+0,29 days 00:00:00.000000000
+ZFL,Zuflo.IO,Trading and Finance all on one platform It is a onestopshop for cryptocurrency and cryptoasset trading,0.0,2018-05-01 00:00:00,2018-05-30 13:50:00,0.0,UTC+3,29 days 13:50:00.000000000
+IRYO,Iryo,Blockchain driven healthcare network built on decentralising access to medical data,0.0,2018-04-30 14:00:00,2018-05-30 14:00:00,0.0,UTC+0,30 days 00:00:00.000000000
+GOC,GoChain,GoChain is a scalable Ethereum based smart contract blockchain that is fast secure and green,0.0,2018-05-16 00:00:00,2018-05-31 00:00:00,0.0,UTC--8,15 days 00:00:00.000000000
+DIW,DIW Token,DIW is a secure blockchainbased digital platform which safeguards and secures your digital life,0.0,2018-05-03 12:00:00,2018-05-31 12:00:00,0.0,UTC+0,28 days 00:00:00.000000000
+BIRD,Birdchain,Birdchain  blockchain based A2P2P Application to person to person app,0.0,2018-03-01 15:00:00,2018-05-31 15:00:00,0.0,UTC+3,91 days 00:00:00.000000000
+JOI,Jointedu,Educational investment on Blockchain Enable everybody to share their knowledge and skills through our future online learning system,0.0,2018-04-16 09:00:00,2018-05-31 23:00:00,0.0,UTC+7,45 days 14:00:00.000000000
+BTF,BITRUST,A decentralized easy to use peer2peer cryptocurrency insurance platform,0.0,2018-04-02 12:00:00,2018-05-31 23:59:00,0.0,UTC+0,59 days 11:59:00.000000000
+BPS,BitProperty,Tokenizing and digitalizing Real Estate Investments through the application of Blockchain Technology,0.0,2018-04-16 00:00:00,2018-05-31 23:59:00,0.0,UTC+3,45 days 23:59:00.000000000
+A2A,STeX Exchange,All Coins One Platform Trade over 10000 direct coin cross rates in one place,0.0,2018-05-01 12:00:00,2018-05-31 23:59:00,0.0,UTC+0,30 days 11:59:00.000000000
+CUZ,Cool Cousin,Revolutionizing travel with a sharing economy powered by Blockchain for efficiency transparency and security,0.0,2018-04-26 00:00:00,2018-05-31 23:59:00,0.0,UTC+0,35 days 23:59:00.000000000
+SLT,Successlife,A customized Payment Solution for the Education Personal and Professional Development Industries,0.0,2018-04-15 00:00:00,2018-05-31 23:59:00,0.0,UTC+0,46 days 23:59:00.000000000
+FAN,FCFL,The first professional sports league built on the blockchain and controlled by the fans,0.0,2018-03-20 09:00:00,2018-05-31 23:59:00,0.0,UTC--8,72 days 14:59:00.000000000
+VIC,Virtonomics,Ecosystem capable of meeting the million people needs in an affordable interesting creative and wellpaid online job,0.0,2018-03-01 00:00:00,2018-05-31 23:59:00,0.0,UTC+4,91 days 23:59:00.000000000
+TNS,Transcodium,Transcodium aims to provide the first peertopeer blockchain based and decentralized media transcoding editing and distribution platform with high quality and reliable computational power at a very affordable price,0.0,2018-02-28 00:00:00,2018-05-31 23:59:59,-0.9937,UTC+0,92 days 23:59:59.000000000
+GMBC,Gamblica,Gamblica is an international gambling platform based on innovative digital solutions and blockchain technology,0.0,2018-03-01 00:00:00,2018-06-01 00:00:00,0.0,UTC+0,92 days 00:00:00.000000000
+BMT,BitMinutes,The primary goal of Bitminutes ICO is to provide access to key financial services for over two billion unbanked worldwide,0.0,2018-04-30 12:00:00,2018-06-01 12:00:00,0.0,UTC+4,32 days 00:00:00.000000000
+KNT,Kora Network,Infrastructure for building inclusive financial systems for all and sundry using blockchain,0.0,2018-05-18 12:00:00,2018-06-01 12:00:00,-0.996,UTC+0,14 days 00:00:00.000000000
+EOS,EOS,A powerful infrastructure for decentralized apps powered by Blockchain Technology,3.47,2017-06-26 14:00:00,2018-06-01 14:00:00,0.0,UTC+0,340 days 00:00:00.000000000
+SAF,Safinus,A platform that unites novice and experienced investors,0.0,2018-05-02 00:00:00,2018-06-02 23:59:00,0.0,UTC+0,31 days 23:59:00.000000000
+ETA,Etheera,The Future of Real Estate with decentralized Portal  All in One Software Solution for the Agents,0.0,2018-02-10 10:00:00,2018-06-03 10:00:00,0.0,UTC+1,113 days 00:00:00.000000000
+CC,Cultural Places,Blockchain meets culture connect visitors institutions and artists,0.0,2018-03-05 14:00:00,2018-06-04 14:00:00,0.0,UTC+1,91 days 00:00:00.000000000
+SQoin,StasyQ,StasyQ brings crypto revolution to the adult industry,0.0,2018-04-06 12:00:00,2018-06-05 12:00:00,0.0,UTC+0,60 days 00:00:00.000000000
+TOPIA,TopiaCoin,Secure and Decentralized File Sharing Infrastructure using blockchain technology,0.0,2018-05-15 12:00:00,2018-06-05 12:00:00,0.0,UTC+0,21 days 00:00:00.000000000
+IMT,MoneyToken,MoneyToken provides cryptobacked loans stablecoin MTC and a decentralized exchange service,0.0,2018-05-02 00:00:00,2018-06-06 23:59:00,0.0,UTC+0,35 days 23:59:00.000000000
+COIL,CoinOil,Oil Backed Coin CoinOil will be supported by assets in physical oil  oil futures,0.0,2018-03-24 00:00:00,2018-06-08 23:59:00,0.0,UTC--8,76 days 23:59:00.000000000
+WRT,White Rabbit,White Rabbit allows you to reward the films and series you stream on whatever peertopeer platform you choose to stream them from,0.0,2018-05-15 14:00:00,2018-06-10 14:00:00,0.0,UTC+0,26 days 00:00:00.000000000
+MTV,Multiversum,4th Generation Blockchain with a Multidimensional Structure POS,0.0,2018-04-16 00:00:00,2018-06-10 23:59:00,0.0,UTC+1,55 days 23:59:00.000000000
+GIF,GIFcoin,The GIF in GIFcoin stands for Gambling Investment Fund Gamers get to make winning in a provably fair gambling system,0.0,2018-03-16 08:00:00,2018-06-12 00:00:00,0.0,UTC+0,87 days 16:00:00.000000000
+CRD,CRYDE,A blockchain based car raffle platform with profit dividend paid out to token holders,0.0,2018-05-07 12:00:00,2018-06-12 12:00:00,0.0,UTC+1,36 days 00:00:00.000000000
+CRS,CRYSTALS,First blockchain platform for modeling industry which operates as an intermediary between service providers and customers,0.0,2018-05-29 00:00:00,2018-06-12 23:59:00,0.0,UTC+2,14 days 23:59:00.000000000
+ANK,Airchain Network,Airchain is the next revolution in Freight Industry for unrivaled transparency and efficiency,0.0,2018-05-14 20:00:00,2018-06-14 20:00:00,0.0,UTC+1,31 days 00:00:00.000000000
+FLIX,CryptoFlix,Blockchain streaming platform to disrupt the global TV,0.0,2018-05-15 00:00:00,2018-06-15 00:00:00,0.0,UTC+0,31 days 00:00:00.000000000
+BINK,BINKD,Decentralized Cryptocurrency Exchange with Fiat onboarding,0.0,2018-04-15 06:00:00,2018-06-15 06:00:00,0.0,UTC+0,61 days 00:00:00.000000000
+BHM,BHOM,Decentralized Property Transaction  Investment Platform,0.0,2018-05-10 11:56:00,2018-06-15 11:56:00,0.0,UTC+1,36 days 00:00:00.000000000
+BRM,BIORITMAI,A PERSONALIZED MEDICINE OF THE FUTURE A modern system of biorhythm monitoring with the most sophisticated tools for analysis and realtime diagnostics,0.01,2018-04-16 00:00:00,2018-06-16 00:00:00,-0.9962000000000001,UTC+3,61 days 00:00:00.000000000
+BFDT,Befund,Decentralized Blockchain service platform for funds It is a Dapp of a public chain designed for the financial industry,0.0,2018-05-16 00:00:00,2018-06-16 00:00:00,0.0,UTC+8,31 days 00:00:00.000000000
+QYK,QYKBAR,Your Personal Bar on the Cloud,0.0,2018-05-15 09:00:00,2018-06-16 09:00:00,0.0,UTC+1,32 days 00:00:00.000000000
+TECT,Cryptectum,Investments in swiss real estate on blockchain basis to help streamline the industry make it more efficient and profitable,0.0,2018-03-27 12:00:00,2018-06-17 12:00:00,0.0,UTC+2,82 days 00:00:00.000000000
+DAC,DACC,DACC is the worlds first contentbased blockchain that features identity and access management IAM at the infrastructure level,0.0,2018-06-10 00:00:00,2018-06-17 23:59:00,0.0,UTC+8,7 days 23:59:00.000000000
+ETD,Earthmedz,Ensuring the accessibility of efficient healthcare globally using blockchain,0.0,2018-04-20 10:00:00,2018-06-18 23:59:00,0.0,UTC+0,59 days 13:59:00.000000000
+SOOM,SOOM Blockchain,SOOM 4th Blockchain is a BlockchainasaService platform designed for both conventional and smartphone usage,0.0,2018-05-15 00:00:00,2018-06-20 00:00:00,0.0,UTC+0,36 days 00:00:00.000000000
+DEED,Deedcoin,Deedcoin is the blockchain of the real estate industry reducing commissions by over 80 with licensed agents anywhere,0.0,2018-05-21 10:00:00,2018-06-21 10:00:00,0.0,UTC--5,31 days 00:00:00.000000000
+OAK,Acorn Collective,Making crowdfunding easy and accessible to anyone anywhere and at anytime,0.0,2018-05-26 00:00:00,2018-06-24 00:00:00,0.0,UTC+0,29 days 00:00:00.000000000
+WEE,WeevoCity,Decentralized Social Urban Network for Online Marketing Focused on Local Business,0.0,2018-04-26 00:01:00,2018-06-25 00:00:00,0.0,UTC+2,59 days 23:59:00.000000000
+CMA,Coin Mine Australia,Australias First  Largest Crowd Funded Mining Operation,0.0,2018-04-16 08:00:00,2018-06-25 23:59:00,0.0,UTC+8,70 days 15:59:00.000000000
+SAVG,Savage Token,The Savage Token project is a  democratized tokenized reputationbased stock media platform that rewards millions of digital content creators without the need for any central middlemen,0.0,2018-03-26 00:01:00,2018-06-26 23:59:00,0.0,UTC+0,92 days 23:58:00.000000000
+ICST,ICST,ICST is a platform used to identity store and protect creative content using blockchain technology,0.0,2018-06-12 00:00:00,2018-06-29 00:00:00,0.0,UTC+0,17 days 00:00:00.000000000
+PTH,PRETHER,PRETHER Cryptocurrency backed by Precious Metals to give intrinsic value to investors,0.0,2018-04-01 00:00:00,2018-06-30 00:00:00,0.0,UTC+1,90 days 00:00:00.000000000
+ADM,ADAMANT Messenger,The most secure and anonymous messenger encrypted with Blockchain ADAMANT will bring a new user experience to messaging,0.0,2018-01-30 06:18:00,2018-06-30 06:19:00,0.0,UTC+3,151 days 00:01:00.000000000
+WELL,WELL,Healthcare Delivered WELL With Blockchain technology WELL is set to revolutionize the healthcare industry,0.0,2018-04-16 08:00:00,2018-06-30 08:00:00,-0.9555,UTC+0,75 days 00:00:00.000000000
+TRW,Triwer,Parcel Delivery with Precision and Speed Using Blockchain Technology for improved Efficiency,0.0,2018-06-01 12:00:00,2018-06-30 12:00:00,0.0,UTC+1,29 days 00:00:00.000000000
+EQUI,EQUI,EQUI disrupts the traditional venture investment market by empowering the crypto community to join the next generation of venture capital investors,0.0,2018-03-15 13:00:00,2018-06-30 12:00:00,0.0,UTC+0,106 days 23:00:00.000000000
+LTS,Lotus Core,The decentralized platform for gamers developers and investors,0.0,2018-05-30 13:00:00,2018-06-30 13:00:00,0.0,UTC+0,31 days 00:00:00.000000000
+RAC,RoBET,RoBET is going to be the first platform for crypto sports betting and cryptocurrency exchange,0.0,2018-04-20 15:00:00,2018-06-30 15:00:00,0.0,UTC+0,71 days 00:00:00.000000000
+GREM+GRET,Global REIT,The first ever Blockchain based Real Estate Investment Trust REIT to ensure profitable returns for subscribers,0.0,2018-06-01 17:00:00,2018-06-30 17:00:00,0.0,UTC+0,29 days 00:00:00.000000000
+GBT,Globatalent,The sports marketplace where you can invest in your worldwide idols by making use of the magic of blockchain technology to present a transparent process,0.0,2018-06-18 00:00:00,2018-06-30 23:59:00,0.0,UTC+1,12 days 23:59:00.000000000
+KON,Konios,The worlds most secure cash  crypto platform,0.0,2018-05-01 00:00:00,2018-06-30 23:59:00,0.0,UTC+1,60 days 23:59:00.000000000
+AST,All-Stocks Network,The ALLSTOCKS Network is a distributed global stock exchange platform which aims to interface with all major stock exchanges and stock brokers around the world,0.0,2018-05-01 00:00:00,2018-06-30 23:59:00,0.0,UTC+2,60 days 23:59:00.000000000
+CHIP,RealCasino,RealCasino is a decentralized distributed casino gaming platform,0.0,2018-05-01 17:00:00,2018-06-30 23:59:00,-0.917,UTC+0,60 days 06:59:00.000000000
+PGC,Paygine,Paygine is an open financial platform designed to operate within its own proprietary banking structure and designed to serve cryptobusiness needs,0.0,2018-04-01 00:01:00,2018-06-30 23:59:00,0.0,UTC--5,90 days 23:58:00.000000000
+TCH,Teacher Coin,Teacher Coin TCH Crypto Currency for Educators provides a Universal platform for Teachers to purchase and sell resources and plan for Retirement,0.0,2018-06-15 23:59:00,2018-06-30 23:59:00,0.0,UTC+8,15 days 00:00:00.000000000
+TBT,TRIPBIT,The New Global Currency for Travel and Tourism,0.0,2018-05-01 00:00:00,2018-07-03 00:00:00,0.0,UTC+0,63 days 00:00:00.000000000
+WINS,WinStars,Winstars is a decentralized gaming platform with a catalog of gambling resources the core is built on Blockchain and smart contracts,0.0,2018-06-03 00:01:00,2018-07-03 23:59:00,0.0,UTC+3,30 days 23:58:00.000000000
+DZC,D-ZONE COIN,The worlds first settlement service using block chain technology that realizing low commission high security immediate settlement,0.0,2018-06-01 00:00:00,2018-07-04 23:59:00,0.0,UTC+9,33 days 23:59:00.000000000
+DTX,DataBroker DAO,DataBroker DAO is the first marketplace to sell  buy sensor data through the use of Blockchain Technology,0.0,2018-04-26 16:00:00,2018-07-07 16:00:00,0.0,UTC+1,72 days 00:00:00.000000000
+ESS,Essentia,Essentia is the interoperations and data management framework forged by a whole new set of protocols,0.0,2018-06-25 12:01:00,2018-07-08 12:00:00,-0.9887,UTC+0,12 days 23:59:00.000000000
+CIF,CrowdIF,A revolutionary project using sentiment analysis for crypto trading through sophisticated algorithms,0.0,2018-06-25 12:00:00,2018-07-10 12:00:00,0.0,UTC+0,15 days 00:00:00.000000000
+XSE,XSEARCH,XSEARCH  Innovating Research System using the power of blockchain technology,0.0,2018-06-10 14:00:00,2018-07-10 23:00:00,0.0,UTC+2,30 days 09:00:00.000000000
+DTT,Delphi Technologies Token.,Smart wallet  Currency for Delphi Intelligent carsThis is a token used in Delphi intelligent  driverless cars for use by car,0.0,2018-05-01 17:00:00,2018-07-11 23:59:00,0.0,UTC+7,71 days 06:59:00.000000000
+NH,Nihilum,A lifetime cloud mining service provider managed by a Danish company and a group of passionate professionals,0.0,2018-05-11 00:00:00,2018-07-11 23:59:00,0.0,UTC+3,61 days 23:59:00.000000000
+MDX,Mandala,A revolutionary digital asset exchange which is simple secure and sustainable,0.0,2018-06-01 00:01:00,2018-07-13 23:59:00,0.0,UTC--5,42 days 23:58:00.000000000
+FNT,Friend,Worlds first decentralised open source and device independent computer based on Blockchain Technology,0.0,2018-06-15 09:00:00,2018-07-14 09:00:00,0.0,UTC+0,29 days 00:00:00.000000000
+ODY,Odyfund,Fundraising platform linked to a humanitarian crypto emergency fund,0.0,2018-06-15 12:00:00,2018-07-15 12:00:00,0.0,UTC+0,30 days 00:00:00.000000000
+VRN,VERNAM,The Worlds First 0 commission insurance on the Blockchain  making insurance more affordable,0.0,2018-06-04 09:01:00,2018-07-15 23:59:00,0.0,UTC+0,41 days 14:58:00.000000000
+ABCS,AbacasXchange,AbacasXchange is a universal exchange that allows you to trade exchange or transfer Any Asset Anywhere Anytime,0.0,2018-06-15 00:00:00,2018-07-15 23:59:00,0.0,UTC+0,30 days 23:59:00.000000000
+BEAT,BEAT,BEAT is a SportAlliance project to help promote Sporting and Healthy activities,0.0,2018-02-21 00:00:00,2018-07-15 23:59:00,0.0,UTC+1,144 days 23:59:00.000000000
+KEP,Kepler Technologies,Artificial Intelligence AI and Robotics Ecosystem Powered by Blockchain Technology,0.0,2018-06-26 00:00:00,2018-07-17 00:00:00,0.0,UTC+4,21 days 00:00:00.000000000
+FTEC,FTEC,FTEC is an ecosystem of intelligent services and neural networks for conducting effective trading activities on cryptocurrency markets,0.0,2018-06-20 14:00:00,2018-07-18 14:00:00,0.0,UTC+0,28 days 00:00:00.000000000
+PERA,PAYERA,A new era in the crypto world through simple shopping and easy payment,0.0,2018-06-20 18:00:00,2018-07-18 18:00:00,0.0,UTC+1,28 days 00:00:00.000000000
+LUK,Luckchemy,Luckchemy is a scalable and provably fair online gambling platform driven by a unique combination of blockchain technology and offchain cryptography,0.0,2018-05-22 00:00:00,2018-07-20 23:59:00,0.0,UTC+0,59 days 23:59:00.000000000
+GANA,GANA,The blockchain based AI platform providing personal assistance in cannabis industry,0.0,2018-05-21 00:00:00,2018-07-21 23:59:00,0.0,UTC+1,61 days 23:59:00.000000000
+ATK,IAC AutoUnit,Decentralized marketplace with multilevel cashback,0.0,2018-03-26 12:00:00,2018-07-22 12:00:00,0.0,UTC+3,118 days 00:00:00.000000000
+TYPE,Typerium,IP Protected contentcreation platform social media network and marketplace,0.0,2018-06-26 19:00:00,2018-07-23 23:59:00,0.0,UTC+1,27 days 04:59:00.000000000
+YUM,Yumerium,Play review and Share to Earn on an open Gaming Platform which makes use of the Blockchain,0.0,2018-05-24 02:00:00,2018-07-24 02:00:00,0.0,UTC--8,61 days 00:00:00.000000000
+TTV,TV-TWO,Television Ecosystem on the Blockchain which enables directs connection between viewers advertisers and content creators,0.0,2018-05-24 13:00:00,2018-07-24 13:00:00,0.0,UTC+0,61 days 00:00:00.000000000
+REFER,Plentix,Connecting and rewarding participants in online referral programs power by Blockchain Technology,0.0,2018-07-11 12:00:00,2018-07-25 12:00:00,0.0,UTC+11,14 days 00:00:00.000000000
+CHBR,CriptoHub,CriptoHub is a Brazilian cryptocurrency exchange bringing unique benefits Brazil,0.0,2018-04-20 00:00:00,2018-07-27 00:00:00,0.0,UTC--3,98 days 00:00:00.000000000
+VLR,Valorem Foundation,Valorem Foundation is building a niche ecommerce platform for 99 of the market,0.03,2017-12-15 03:00:00,2018-07-28 03:00:00,-0.9813,UTC+0,225 days 00:00:00.000000000
+COT,Coinet,Coinet Financing Platform is a decentralized P2P platform that will directly connect investors and project owners We will follow the DAICO model,0.0,2018-06-22 12:00:00,2018-07-28 12:00:00,0.0,UTC+0,36 days 00:00:00.000000000
+AQUAX,IAqua,Expansion of sustainable freshwater aquaculture facility in Australia to grow premium quality fish,0.0,2018-04-29 01:00:00,2018-07-29 01:00:00,0.0,UTC+0,91 days 00:00:00.000000000
+LBT,LendsBay,LendsBay is system for trusted financial transactions between people based on transparency and blockchain technology,0.0,2018-06-18 00:00:00,2018-07-29 23:59:00,0.0,UTC+3,41 days 23:59:00.000000000
+AVINOC,Avinoc,The Blockchain Solution disrupting the global General Aviation Business,0.0,2018-07-14 00:00:00,2018-07-30 00:00:00,0.0,UTC+2,16 days 00:00:00.000000000
+PT,Playtness,Tokenizing the world of fitness to create healthier lives for all around the globe using the power of blockchain technology,0.0,2018-07-01 12:00:00,2018-07-30 12:00:00,0.0,UTC+2,29 days 00:00:00.000000000
+K2G,Kasko2go,First blockchain community for safer driving and help drive down car insurance costs,0.0,2018-07-01 12:01:00,2018-07-30 12:00:00,0.0,UTC+1,28 days 23:59:00.000000000
+FLEX,TrustedCars Flex,AwardWinning German Company is changing Car Ownership forever by incorporating the magic of Blockchain Technology,0.0,2018-06-11 09:00:00,2018-07-30 23:00:00,0.0,UTC+2,49 days 14:00:00.000000000
+DEC,Darico,Monitor Trade Invest Spend,0.1,2018-01-30 00:00:00,2018-07-30 23:59:00,-0.8056,UTC+1,181 days 23:59:00.000000000
+C4F,Coins4Favors,A decentralized blockchain powered peertopeer platform for favors and minijobs around the world,0.0,2018-06-01 00:00:00,2018-07-30 23:59:00,0.0,UTC+0,59 days 23:59:00.000000000
+FANZ,SportsCastr FanChain,Sports Token and Decentralized Ecosystem That Knows Your Favorite Team,0.0,2018-06-30 04:25:00,2018-07-31 04:25:00,0.0,UTC+2,31 days 00:00:00.000000000
+XPR,PR Network,PRnetwork is an incentivebased voting protocol designed to decentralized the reputation and value of everything,0.0,2018-07-01 12:12:00,2018-07-31 12:12:00,0.0,UTC+0,30 days 00:00:00.000000000
+BANG,Bounty Angels,A solution for Bounty hunters For ICO For blockchain community For everyone,0.0,2018-07-01 00:00:00,2018-08-01 00:00:00,0.0,UTC+0,31 days 00:00:00.000000000
+LIC,Ligercoin,LIGER is here with best processes swifter transactions and smartest thinking Its advanced features of safety and anonymity are ready to win hearts and games,0.0,2018-06-17 09:00:00,2018-08-01 23:55:00,0.0,UTC+0,45 days 14:55:00.000000000
+STAR,Starflow,Starflow is a blockchainpowered ecosystem for the influencer economy,0.0,2018-07-04 09:00:00,2018-08-04 09:00:00,0.0,UTC+1,31 days 00:00:00.000000000
+DTN,Datareum,Decentralized Marketplace for Data helping data providers take control of their data,0.0,2018-06-02 12:00:00,2018-08-06 12:00:00,0.0,UTC+0,65 days 00:00:00.000000000
+STM,STREAMITY,The key element of STREAMITY is StreamDesk decentralized application for exchange of cryptocurrency to fiat,0.0,2018-06-25 12:00:00,2018-08-06 12:00:00,0.0,UTC--8,42 days 00:00:00.000000000
+BOTC,BotChain,Infrastructure for Trust and Audit of AI Systems It helps with increased adoption of AI,0.0,2018-07-08 17:40:00,2018-08-08 17:40:00,0.0,UTC--5,31 days 00:00:00.000000000
+CODX,Codex Protocol,A decentralized registry for unique assets which makes use of Blockchain to verify and authenticate ownership of prized assets,0.0,2018-07-24 00:00:00,2018-08-08 23:59:00,0.0,UTC+0,15 days 23:59:00.000000000
+MYDFS,MyDFS,Blockchainpowered daily fantasy sports which brings more efficiency for optimal user experience,0.0,2018-07-10 00:00:00,2018-08-10 23:59:00,0.0,UTC+0,31 days 23:59:00.000000000
+MIB,MIB COIN,MIB coin is a smartphonebased Blockchain network which ensures efficient use of power through simplified coin mining,0.0,2018-07-20 00:00:00,2018-08-10 23:59:00,0.0,UTC+0,21 days 23:59:00.000000000
+IC,INGOT Coin,Creating a onestopshop Ecosystem that will link the Crypto markets to the current financial markets,0.0,2018-07-01 00:00:00,2018-08-11 23:59:00,0.0,UTC+0,41 days 23:59:00.000000000
+METM,MetaMorph Pro,Allinone Exchange to Secure Manage and Trade Cryptocurrencies It Presents Users with Convenience,0.0,2018-06-28 00:00:00,2018-08-14 00:00:00,0.0,UTC--5,47 days 00:00:00.000000000
+B21,B21,Your personal wealth manager for cryptoassets to help maximize profits,0.0,2018-07-15 17:13:00,2018-08-14 17:14:00,0.0,UTC+0,30 days 00:01:00.000000000
+HYB,Hybrid Betting,The unique platform in the world where betting is a different game,0.0,2018-06-14 12:00:00,2018-08-15 12:00:00,0.0,UTC+0,62 days 00:00:00.000000000
+ASk,AllSpark,AllSpark Chain is a public blockchain where content creators advertisers and social media users coexist in a reciprocal sharing economy,0.0,2018-07-23 00:00:00,2018-08-15 23:59:00,0.0,UTC+0,23 days 23:59:00.000000000
+Lamb,Lambda,A disruptor in blockchainbased storage solution The chain provides millions of Requests per Second RPS through sharding technology,0.0,2018-08-01 00:00:00,2018-08-15 23:59:00,0.0,UTC+8,14 days 23:59:00.000000000
+TIP,Tip Blockchain,Powering mass adoption of cryptocurrency through discovery of information on the blockchain,0.0,2018-07-21 00:00:00,2018-08-17 23:59:00,0.0,UTC+0,27 days 23:59:00.000000000
+OSA,OSA DC,The worlds first decentralized AIdriven marketplace providing realtime solutions to retailers manufacturers and consumers,0.0,2018-07-20 18:07:00,2018-08-20 18:07:00,0.0,UTC+0,31 days 00:00:00.000000000
+ARTX,ArticleX,The first Publishing Platform for the Blockchain era  benefiting both publishers and visitors,0.0,2018-06-15 11:59:00,2018-08-20 23:59:00,0.0,UTC+0,66 days 12:00:00.000000000
+IAM,IAME Identity,Making compromised information hackworthless It makes use of distributed ledger system to ensure that peoples identifications are secure,0.0,2018-07-04 00:01:00,2018-08-24 23:59:00,0.0,UTC+0,51 days 23:58:00.000000000
+TRIL,Trilliant,Fractional Ownership Programs for Cryptocurrency ATMs Trilliant makes the highly lucrative cryptocurrency ATM business accessible to everyone,0.0,2018-08-11 00:00:00,2018-08-25 00:00:00,0.0,UTC+2,14 days 00:00:00.000000000
+UBC,Ubcoin Market,Exchange Cryptocurrency for Real Goods and Vice VersaUbCoin makret makes a real life case for cryptocurrency transactions,0.0,2018-04-02 00:01:00,2018-08-27 23:59:00,0.0,UTC+0,147 days 23:58:00.000000000
+LV,LendChain,LendChain is a distributed digital asset financial services platform based on the GXChain providing digital asset holders with financing investment insurance and other financial services,0.0,2018-08-28 12:00:00,2018-08-30 12:00:00,0.0,UTC+8,2 days 00:00:00.000000000
+IOTW,IOTW,A cryptocurrency for IOT purchase supply chain and aftersales services transactions,0.0,2018-07-31 00:00:00,2018-08-31 00:00:00,0.0,UTC+8,31 days 00:00:00.000000000
+GRAM,Lantah,Borderless marketplace connecting global trade and disrupting commerce giants through the implementation of Blockchain,0.0,2018-03-09 06:44:00,2018-08-31 06:44:00,0.0,UTC--4,175 days 00:00:00.000000000
+TPLAY,TruePlay,Fully functioning platform created for integration of blockchain tech into online gambling projects,0.0,2018-05-15 00:00:00,2018-08-31 23:59:00,0.0,UTC+3,108 days 23:59:00.000000000
+EO,EO.Trade,Leading Online Broker ExpertOption introduces the EO ecosystem EOTrade cryptoexchange EOFinance wallet and EONews portal,0.0,2018-07-16 09:00:00,2018-08-31 23:59:00,0.0,UTC+0,46 days 14:59:00.000000000
+IMVR,ImmVRse,Decentralised platform for VR Content Creators Brands and Viewers by incorporating the power of Blockchain Technology,0.0,2018-07-07 00:00:00,2018-09-07 00:00:00,-0.9439,UTC+0,62 days 00:00:00.000000000
+FYS,Fysical,Fysical is the infrastructure for the transparent and compliant exchange of location data,0.0,2018-09-03 00:00:00,2018-09-07 00:00:00,0.0,UTC+0,4 days 00:00:00.000000000
+WEIS,WeiCrowd,End to end ICO lifecycle management and exchange solution with incubation Right Startups Right Funding And Right Growth,0.0,2018-05-15 00:00:00,2018-09-12 00:00:00,0.0,UTC+8,120 days 00:00:00.000000000
+PAVO,Pavocoin,Pavo provides an intelligent stateoftheart IoT blockchain solution for the global agriculture ecosystem,0.0,2018-08-07 00:00:00,2018-09-15 00:00:00,0.0,UTC+0,39 days 00:00:00.000000000
+MIC,DenchMusic,Dench Music ICO merges the Music Industry and Blockchain together to give music lovers the best experience,0.0,2018-08-15 00:00:00,2018-09-15 00:00:00,0.0,UTC+0,31 days 00:00:00.000000000
+VIVA,Viva,Viva Easy simple and convenient way of Crowdfunding mortgages on the blockchain,0.0,2018-04-16 00:00:00,2018-09-18 00:00:00,0.0,UTC+0,155 days 00:00:00.000000000
+MDBLX,MedBlox,Driving Health Care Innovation Through Patient Centric Interoperability,0.0,2018-08-19 20:00:00,2018-09-19 20:00:00,0.0,UTC--5,31 days 00:00:00.000000000
+XCLP,Chynge,Worlds First Payment Token with No FX Risk Instant Free and Safe Payments with Smart Compliance,0.0,2018-06-28 00:00:00,2018-09-25 23:59:00,0.0,UTC+8,89 days 23:59:00.000000000
+PPD,PingPaid,New payment system that uses any cryptocurrency or the PingPaid token to pay or receive payment on the blockchain for no or minimal fees,0.0,2018-07-01 00:00:00,2018-09-30 00:00:00,0.0,UTC--5,91 days 00:00:00.000000000
+BXY,Beaxy Exchange,Beaxy aims to create the ultimate allinone cryptocurrency exchange with more tools at your disposal than ever before and a user experience that is unmatched,0.0,2018-09-01 00:00:00,2018-09-30 00:00:00,0.0,UTC+0,29 days 00:00:00.000000000
+CCH,CitiCash,CitiCash is one of the worlds first cryptocurrencies that will enable the general public to enter the world of modern digital money with ease,0.0,2018-09-01 12:00:00,2018-09-30 00:00:00,0.0,UTC+2,28 days 12:00:00.000000000
+TKD,Techrod,Revolutionizing ElectionsConsensus decision making Process,0.0,2018-03-12 12:00:00,2018-09-30 12:00:00,0.0,UTC+1,202 days 00:00:00.000000000
+INV,Invest in Brokers,Social trustless copytrading through API services designed for beginning and experienced cryptocurrency traders,0.0,2018-08-15 12:00:00,2018-09-30 12:00:00,0.0,UTC+0,46 days 00:00:00.000000000
+LXT,LEXIT,LEXIT is the first online marketplace that allows entrepreneurs to trade IP copyrights code and even sell entire startups,0.0,2018-06-19 00:01:00,2018-09-30 12:00:00,0.0,UTC+0,103 days 11:59:00.000000000
+UBEX,Ubex,Ubex is a global decentralized advertising exchange where companies advertise effectively while publishers profitably tokenize ad slots on their resources,0.0,2018-05-21 14:00:00,2018-09-30 14:00:00,-0.9393,UTC+0,132 days 00:00:00.000000000
+TUT,Tutellus,Tutellus is the biggest online educational collaborative platform in the Spanishspeaking world,0.0,2018-06-12 00:00:00,2018-09-30 23:59:00,0.0,UTC+0,110 days 23:59:00.000000000
+TAB,Accounting Blockchain,The future of accounting saving businesses billions and sparing the individual sole reliance on expensive accountants,0.0,2018-07-15 10:00:00,2018-09-30 23:59:00,0.0,UTC+0,77 days 13:59:00.000000000
+GBO,Gabro,GabroTech is Democratising loyalty rewards using Blockchain Technology This will disrupt the loyalty and rewards system,0.0,2018-07-31 00:00:00,2018-09-30 23:59:00,0.0,UTC+8,61 days 23:59:00.000000000
+VOCO,Provoco,Provoco is the new generation of blockchainempowered social challenge network for mass users,0.0,2018-04-01 12:00:00,2018-10-01 12:00:00,0.0,UTC+0,183 days 00:00:00.000000000
+RAWG,RAWG,RAWG is a Video game discovery platform that converts your skills into goods and services,0.0,2018-09-05 00:00:00,2018-10-05 00:00:00,0.0,UTC+0,30 days 00:00:00.000000000
+VAD,Varanida,Building a better Internet through a decentralized advertising and content solution,0.0,2018-08-15 12:00:00,2018-10-06 12:00:00,0.0,UTC+1,52 days 00:00:00.000000000
+AFI,Alchemy Coin,AFI is the first security token being backed by financial derivatives and powered by Blockchain Technology,0.0,2018-08-27 12:00:00,2018-10-09 00:00:00,0.0,UTC--5,42 days 12:00:00.000000000
+MTC,Multiven MOM,The worlds first blockchainbased marketplace for the global 3 Trillion IT products and services Industry,0.0,2018-07-01 00:01:00,2018-10-09 23:59:00,0.0,UTC+1,100 days 23:58:00.000000000
+AQUA,Sansox,The Power of Clean Water through the efficient use of technology powered by Blockchain,0.0,2018-09-10 19:00:00,2018-10-10 00:00:00,0.0,UTC+1,29 days 05:00:00.000000000
+BDP,Bidipass,Secure identity for everyone through the application of blockchain technology which brings unrivaled transparency,0.0,2018-08-16 00:00:00,2018-10-11 00:00:00,0.0,UTC+0,56 days 00:00:00.000000000
+UTS,UTEMIS,The First B2B ecommerce Token that Creates a Single Economic Space for Companies in Latin America To Regain New Net Growth,0.0,2018-09-16 17:00:00,2018-10-14 17:00:00,0.0,UTC+1,28 days 00:00:00.000000000
+CNVT,Conventment,IoT B2B logistics for the legal cannabis industry powered by Ethereum,0.0,2018-09-30 00:00:00,2018-10-14 23:59:00,0.0,UTC--5,14 days 23:59:00.000000000
+ZCN,ZICHAIN,Blockchain asset management ecosystem  An allinone investment tool,0.0,2018-09-01 00:00:00,2018-10-15 00:00:00,0.0,UTC+0,44 days 00:00:00.000000000
+RSC,RONALDINHO SOCCER COIN,Creating a key coin for Soccer World and fusing the power of Blockchain Technology,0.0,2018-08-26 00:00:00,2018-10-17 00:00:00,0.0,UTC+0,52 days 00:00:00.000000000
+PERL,Perlin,A supercomputer in the palm of your hand Perlin is a bleedingfast ledger with a powerful compute layer,0.0,2018-10-01 08:00:00,2018-10-26 23:59:00,0.0,UTC+1,25 days 15:59:00.000000000
+PCX,Powerchain,Multifactorial solution for payment with cryptocurrencies and cryptotokens for realworld use,0.0,2018-09-21 09:00:00,2018-10-28 09:00:00,0.0,UTC+8,37 days 00:00:00.000000000
+CCET,CCET Project,Extend renewable energy and blockchainify carbon emissions to solve problem,0.0,2018-09-30 00:00:00,2018-10-30 00:00:00,0.0,UTC+0,30 days 00:00:00.000000000
+OHC,100Tokens,We believe that coin exchange value is strongly connected with its utilization strategy Thats why we propose you a coin which can be used as a payment option in at least 100 companies,0.0,2018-10-10 00:00:00,2018-10-30 23:59:00,0.0,UTC+0,20 days 23:59:00.000000000
+SVP,Svper,Redefining Online Socializing by revolutionizing and revamping the space using Blockchain Technology,0.0,2018-10-01 00:00:00,2018-10-31 00:00:00,0.0,UTC+0,30 days 00:00:00.000000000
+VBEO,Vibeo,A new Era of SocialInstant Messaging app which incorporates Blockchain Technology,0.0,2018-10-02 00:00:00,2018-10-31 00:00:00,0.0,UTC+0,29 days 00:00:00.000000000
+SAM,SamBanx,Connecting cryptocurrency and digital assets to EU classic banks accounts,0.0,2018-10-01 00:00:00,2018-10-31 00:00:00,0.0,UTC+0,30 days 00:00:00.000000000
+WZR,Wyzerr,Wyzerr will facilitate the turning of AI feedback data into tasks and insights for the different roles within a company,0.0,2018-10-01 00:00:00,2018-10-31 00:00:00,0.0,UTC+0,30 days 00:00:00.000000000
+DNC,dona,dona Coin to make world a little bit better with donation using blockchain technology,0.0,2018-09-01 01:00:00,2018-10-31 09:00:00,0.0,UTC+0,60 days 08:00:00.000000000
+CLB,Cloudbric,Secure your cryptocurrency and digital assets on the Blockchain with Cloudbric,0.0,2018-10-22 11:00:00,2018-10-31 11:00:00,0.0,UTC+0,9 days 00:00:00.000000000
+GIZA,Giza Device,Hardware Wallet  Password Manager,0.0,2018-10-01 12:00:00,2018-10-31 12:00:00,0.0,UTC+0,30 days 00:00:00.000000000
+CTKN,Curaizon,Improving Healthcare Reducing Costs  Saving Lives through the power of Blockchain Technology,0.0,2018-06-08 12:01:00,2018-10-31 12:00:00,0.0,UTC+0,144 days 23:59:00.000000000
+8BT,8 Circuit Studios – Wave 2,We build video games digital assets and tools for blockchain that empower players and developers,0.0,2018-10-01 17:00:00,2018-10-31 23:59:00,0.0,UTC+0,30 days 06:59:00.000000000
+BC,Boomstarter.Network,Blockchain to enable Startups to Make Money Worldwide and help with Revenue,0.0,2018-06-27 00:00:00,2018-10-31 23:59:00,0.0,UTC+3,126 days 23:59:00.000000000
+GNY,GNY,Decentralized Machine Learning Platform making use of Blockchain Technology,0.0,2018-09-03 12:00:00,2018-11-01 12:00:00,0.0,UTC+0,59 days 00:00:00.000000000
+RGL,Argyle Coin,Decentralized Marketplace for Diamonds using Blockchain Technology for an effective system,0.0,2018-09-17 13:00:00,2018-11-10 23:59:00,0.0,UTC+0,54 days 10:59:00.000000000
+MET,Miner Edge,Miner Edge is a strategized diversified and crowdfunded mining facility,0.0,2018-08-28 00:00:00,2018-11-11 00:00:00,0.0,UTC+0,75 days 00:00:00.000000000
+KGT,KamaGames Token Sale. Not an,KamaGames Tokens KGT is an industry first in providing ingame sales of services to its users,0.0,2018-10-08 12:00:00,2018-11-12 23:59:00,0.0,UTC+0,35 days 11:59:00.000000000
+OGO,VogoV,Decentralized Porn Studio with a unified adultindustry cryptocurrency OGO coin that provides much more utility than just being a paymen,0.0,2018-09-26 12:00:00,2018-11-14 12:00:00,0.0,UTC+0,49 days 00:00:00.000000000
+JUL,JULLAR,JULLAR project  The global eradication of Shitcoins from the cryptocurrency market,0.0,2018-08-20 00:00:00,2018-11-21 00:00:00,0.0,UTC+3,93 days 00:00:00.000000000
+TASH,Smart Trip Platform,A blockchainenabled ecosystem that connects travelers and travel service providers to create unforgettable trips,0.0,2018-06-11 01:00:00,2018-11-23 01:00:00,0.0,UTC+0,165 days 00:00:00.000000000
+M2O,M2O,M2O aims to afford users the dreamlife by integrating existing mileage and points market to build global membership services through Blockchain,0.0,2018-10-29 07:00:00,2018-11-23 07:00:00,0.0,UTC+0,25 days 00:00:00.000000000
+PLA,PlayChip,The Universal Gaming Token Backed by The Power of Blockchain Technology,0.0,2018-11-21 00:00:00,2018-11-28 00:00:00,0.0,UTC--4,7 days 00:00:00.000000000
+LUD,LUDCOIN,LudCoin is a cryptocurrency or token created for online gamers and gaming world,0.0,2018-05-01 00:00:00,2018-11-30 00:00:00,0.0,UTC+0,213 days 00:00:00.000000000
+BLCK,Black Insurance,Marketplace for insurance brokers and investors on Blockchain to help provide clientspecific solutions,0.0,2018-11-01 09:01:00,2018-11-30 09:00:00,0.0,UTC+0,28 days 23:59:00.000000000
+YOUtoken,RevenYOU,AI and Robots trade better than humans and we have put it in an app,0.0,2018-08-08 00:00:00,2018-11-30 12:00:00,0.0,UTC+1,114 days 12:00:00.000000000
+TCD,Tkeycoin,Tkeycoin DAO is a cryptographic decentralized platform built on the mechanism of artificial intelligence opening a new world of opportunities for people and business,0.0,2018-05-01 12:00:00,2018-11-30 12:00:00,0.0,UTC+0,213 days 00:00:00.000000000
+XRK,RecordsKeeper,RecordsKeeper is an OpenSource Public Platform with an independant Mineable Blockchain for Record Keeping  Data Security,0.0,2018-10-01 00:00:00,2018-11-30 23:59:00,0.0,UTC+2,60 days 23:59:00.000000000
+GOT,GOeureka,NextGen solution shaping the future of online hotel booking using Blockchain Technology,0.0,2018-09-10 00:00:00,2018-11-30 23:59:00,0.0,UTC+8,81 days 23:59:00.000000000
+ARIA,Arianee,SmartLink connecting owners assets  brands The first perpetual anonymous and trusted record of all global assets enabling a revolutionary link between owners and brands,0.0,2018-10-01 00:00:00,2018-12-01 00:00:00,0.0,UTC+0,61 days 00:00:00.000000000
+CHK,One+1,A token that integrates business and charity into a single effective ecosystem,0.0,2018-09-15 12:00:00,2018-12-01 12:00:00,0.0,UTC+0,77 days 00:00:00.000000000
+PLEO,Empleos.io,Jobs Marketplace powered by Blockchain Technology to revolutionize the Job Market,0.0,2018-11-15 00:00:00,2018-12-05 00:00:00,0.0,UTC+0,20 days 00:00:00.000000000
+EdToken,AIAR,AIAR is democratizing education for 25 billion people with a 360 degree microlearning app,0.0,2018-07-10 00:00:00,2018-12-05 23:59:00,0.0,UTC+2,148 days 23:59:00.000000000
+VRF,Verifier,Verifier is a blockchain based solution designed to verify identity events deals and any other kind of data,0.0,2018-11-15 00:00:00,2018-12-15 00:00:00,0.0,UTC+3,30 days 00:00:00.000000000
+MFX,Modern Finance Chain,We are a smart contract platform with direct commerce integration for the easy use of cryptos,0.0,2018-10-15 12:00:00,2018-12-15 23:59:00,0.0,UTC+0,61 days 11:59:00.000000000
+NHCT,NHCT,Blockchain Powered Ecosystem For Total Health and rewards you for being healthconscious,0.0,2018-11-15 00:00:00,2018-12-15 23:59:00,0.0,UTC--5,30 days 23:59:00.000000000
+TACO,Tanibox,Smart agriculture platform for sustainable food system through the use of Blockchain Technology,0.0,2018-07-18 00:00:00,2018-12-18 00:00:00,0.0,UTC+8,153 days 00:00:00.000000000
+AXIS,LaneAxis,Shipper Carrier Direct Optimization Platform using Blockchain Technology for a better system,0.0,2018-09-21 05:00:00,2018-12-21 23:59:00,0.0,UTC--7,91 days 18:59:00.000000000
+genEOS,genEOS,genEOS is a business and technology ecosystem that delivers blockchain to enterprise,0.0,2018-06-26 16:00:00,2018-12-23 16:00:00,0.0,UTC+0,180 days 00:00:00.000000000
+VLX,Verv (VLUX),VLUX by Verv  Creating a new energy marketplace thats powered by data,0.0,2018-11-19 15:00:00,2018-12-28 15:00:00,0.0,UTC+1,39 days 00:00:00.000000000
+TXO,Treon,Utilities Bill Payments Made Simple Pay telecom electricity gas and water bills with one click,0.0,2018-06-08 00:00:00,2018-12-31 00:00:00,0.0,UTC+0,206 days 00:00:00.000000000
+DOM,Dominium,The worlds first global property platform on the Blockchain to help ensure a more effective system,0.0,2018-09-03 11:00:00,2018-12-31 11:00:00,0.0,UTC+0,119 days 00:00:00.000000000
+,Bithemoth,Bithemoth is an advanced allencompassing cryptocurrency exchange platform that is set to revolutionize the cryptoindustry,0.0,2018-11-30 12:00:00,2018-12-31 11:59:00,0.0,UTC+2,30 days 23:59:00.000000000
+VT,Vite,Peer to peer ridesharing built for the blockchain generation and powered by Vitecoin Token VT,0.0,2018-12-15 18:00:00,2018-12-31 23:00:00,0.0,UTC+0,16 days 05:00:00.000000000
+REB,REBGLO,Rebooting The Global Economy Through Energy Circulation through the power of Blockchain Technology,0.0,2018-12-01 00:00:00,2018-12-31 23:59:00,0.0,UTC+0,30 days 23:59:00.000000000
+GAX,GaxCoin,Using Blockchain Technology to transform the workings of the travel Education Betting and CryptoMarket industries,0.0,2018-09-08 00:00:00,2019-01-06 23:59:00,0.0,UTC+0,120 days 23:59:00.000000000
+DGO,DINNGO,The Mobile Digital Currency Exchange to help facilitate the cryptocurrency and Blockchain economy,0.0,2018-12-15 00:00:00,2019-01-15 00:00:00,0.0,UTC+0,31 days 00:00:00.000000000
+INX,InnovaMinex,The purest gold at a lower price tracked by utilizing Blockchain Technology,0.0,2018-11-26 11:00:00,2019-01-26 11:00:00,0.0,UTC+1,61 days 00:00:00.000000000
+VRA,Verasity,Verasity is a nextgeneration video sharing platform designed to liberate creators and benefit viewers,0.0,2018-11-20 12:00:00,2019-01-29 23:59:00,0.0,UTC--5,70 days 11:59:00.000000000
+GZB,Gigzi,Gigzi is a set of interconnected digital applications and services enabling users to manage their wealth independently,0.0,2018-11-23 12:00:00,2019-01-31 00:01:00,0.0,UTC+0,68 days 12:01:00.000000000
+MOBU,MOBU,MoBUS is a Decentralized ICO which is presenting the space with The Future of Security Tokens,0.0,2018-12-01 11:00:00,2019-01-31 11:00:00,0.0,UTC+0,61 days 00:00:00.000000000
+RECSH,REuse cash,REuse Cash is aimed to create a Recycling System that pays the User  ,0.0,2019-01-01 12:00:00,2019-01-31 12:00:00,0.0,UTC+0,30 days 00:00:00.000000000
+HUS,HUSSY io,HUSSY is Disrupting the Oldest Profession a distributed escorting and due diligence infrastructure,0.0,2019-01-01 12:00:00,2019-01-31 12:00:00,0.0,UTC+0,30 days 00:00:00.000000000
+KEYO,Superwallet,A solution to solve the issues concerning secure private key storage  recovery anonymous  known user identification and micropayments,0.0,2018-10-01 14:00:00,2019-01-31 14:00:00,0.0,UTC+1,122 days 00:00:00.000000000
+BTMG,Football Bitcademy,Football marketplace with AI and Players predictions Bitcademy is multidimensional,0.0,2019-01-01 00:00:00,2019-01-31 23:59:00,0.0,UTC+0,30 days 23:59:00.000000000
+BUY,Buying.com,The Buying Power of Millions in the hands of individuals through the power of Blockchain Technology,0.0,2018-12-01 00:00:00,2019-01-31 23:59:00,0.0,UTC+0,61 days 23:59:00.000000000
+PANX,Pantercon,Pantercon reinvents corporate financing and supports startups Next generation startup and business network,0.0,2018-12-01 00:00:00,2019-01-31 23:59:00,0.0,UTC+3,61 days 23:59:00.000000000
+LYNK,Lynked.World,Lynking the World through the power and efficacy of Blockchain Technology,0.0,2019-01-20 23:59:00,2019-02-10 23:59:00,0.0,UTC+2,21 days 00:00:00.000000000
+RF,Raido Financial,The Global Fintech Ecosystem being made more efficient through the power of Blockchain Technology,0.0,2019-01-15 00:00:00,2019-02-15 00:00:00,0.0,UTC+2,31 days 00:00:00.000000000
+BCV,Blue Chip Vision,Blue Chip Vision BCV is an Alternative Digital Future Based on the Blockchain,0.0,2018-12-27 23:59:00,2019-02-25 23:59:00,0.0,UTC+0,60 days 00:00:00.000000000
+PRY,PRIMARY,PRIMARY is a system created to engage cooperation participation and knowledge transfer in the digital industry,0.0,2018-09-01 14:00:00,2019-02-28 14:00:00,0.0,UTC+1,180 days 00:00:00.000000000
+WVR,Weave,The universal cryptocurrency for Virtual and Augmented Reality powered by Blockchain Technology,0.0,2019-01-01 00:00:00,2019-04-30 23:59:00,0.0,UTC+0,119 days 23:59:00.000000000
+VANM,VANM,VANM is a local search engine for products and services distributing advertising revenue among users,0.0,2019-01-01 00:00:00,2019-05-01 00:00:00,0.0,UTC+0,120 days 00:00:00.000000000
+NACL,SaltMine,Providing The Infrastructures For Blockchain Technology and wider cryptocurrency adoption,0.0,2019-04-07 06:12:00,2019-05-07 06:12:00,0.0,UTC--7,30 days 00:00:00.000000000
