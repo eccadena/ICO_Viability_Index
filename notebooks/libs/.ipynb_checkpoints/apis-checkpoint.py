@@ -4,9 +4,17 @@ from urllib.request import Request, urlopen
 import re
 import datetime
 from datetime import datetime as dt
+import tweepy
+import nltk
+import os
+from collections import Counter
 
-#ICO Watch List API Wrapper- Can be called with 'live', 'upcoming', and 'finished' on the end for their respective lists, otherwise calls all ICO's
-#No API key needed, 1sec limit per call
+consumer_key = os.getenv("TWITTER_PUBLIC_API")
+consumer_secret = os.getenv("TWITTER_SECRET_KEY")
+
+
+
+#Functions for ICO Watch API
 
 class ICO_data():
     
@@ -88,94 +96,30 @@ class ICO_data():
         df["Duration"] = df['End'] - df['Start']
         return df
         
-        
-        
-#Still working on the 'get_new_projects()' function
-class Coin_data():
+
+# Functions for Twitter API
+
+
+def get_tweets_list(topic_of_tweet, num_of_tweets):
+    '''
+    Returns a dataframe of the most recent 'N' tweets from Twitter tokenized and counted.
     
-    def __init__(self):
-        self.btctalk_ann_url = 'https://bitcointalk.org/index.php?board=159.0'
-        self.cmc_base_url = 'https://coinmarketcap.com/currencies/'
-        self.cmc_coin_url = 'https://coinmarketcap.com/all/views/all/'
+    Arguements: `topic_of_tweet` : str; what hashtag is being searched 
+                'num_of_tweets' : int; how many tweet do you want returned
+    '''
+    text,time, word_list, word_count=[],[],[],[]
+    auth = tweepy.AppAuthHandler(consumer_key, consumer_secret)
+    api = tweepy.API(auth)
+    for tweet in tweepy.Cursor(api.search, q=topic_of_tweet, tweet_mode='extended').items(num_of_tweets):
+        text.append(tweet.full_text),
+        time.append(tweet.created_at)
+    tweets_df = pd.DataFrame({'Tweet':text}, index=time)
+    [word_list.append(tokenizer(text)) for text in tweets_df.Tweet]
+    tweets_df['Tokens'] = word_list
+    [word_count.append(token_count(token)) for token in tweets_df.Tokens]
+    tweets_df['Word_Count'] = word_count
+    
+    return tweets_df
 
-    def get_cmc_coins(self):
-        headers={'User-Agent':"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11"} 
-        request=Request(self.cmc_coin_url, headers=headers) 
-        response =urlopen(request)
-        soup = BeautifulSoup(response, 'html.parser')
-        coin_list = soup.findAll('a' , {'class':"currency-name-container link-secondary"})
-        coins = []
-        for coin in coin_list:
-            coins.append(coin.text)
-        return coins
-        
-        
-    def get_new_projects(self):
-        #Get list of coins on Coin Market Cap
-        coin_list = self.get_cmc_coins()
-        
-        #Prepare BS4 to scrape bitcointalk.org announcement page
-        headers={'User-Agent':"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11"} 
-        request=Request(self.btctalk_ann_url, headers=headers) 
-        response =urlopen(request)
-        soup = BeautifulSoup(response, 'html.parser')
-        
-        #Create a list of all the post on the announcement page
-        links = soup.findAll('a')
-        
-        #Capture the url for each post
-        links = [url.get('href') for url in links if 'ANN' in url.text]
-        
-        #For loop over each url saving the content of each page to a dict key
-        print('Looping over each url saving the content of each page to a dict key')
-        coins = {}
-        count = 0
-        for url in links:
-            count += 1
-            headers={'User-Agent':"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11"} 
-            request=Request(url, headers=headers) 
-            response =urlopen(request)
-            soup = BeautifulSoup(response, 'html.parser')
-            coins[count] = soup
-            
-        #For loop over each dict key (post html page) and captive the title, as well as search the body for key words
-        print('Looping over each dict key (post html page) and captive the title, as well as search the body for key words')
-        count = 1
-        flags = ['gaurenteed', 'profit', 'government', 'approval', 'massive', 'mega', 'rich', 'money']
-        name, rating = [],[]
-        for i in range(len(coins)):
-            count += 1
-            scam_meter = 0
 
-            for flag in flags:
-                if flag in coins[i+1].text.lower():
-                    scam_meter += 1
-            name += [coins[i+1].title.text]
-            rating += [scam_meter]
-            
-        #Create a dataframe to store the title and scam rating for each post
-        df = pd.DataFrame({
-            'Title':name,
-            'Scam_Rating':rating,
-        }) 
-        
-        #Extract the project name from the title
-        
-        
-        #Extract the ticker from the title
-        
-        
-        #Extract a start date from the body of each post
-        
-        
-        #Extract an end date from the body of each post
-        
-        
-        #Capture the offering price for each coin
-        
-        
-        #Identify the Algo for each project 
-        
-        
-        return df
-        
+
