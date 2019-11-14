@@ -1,0 +1,12 @@
+compound,negative,neutral,positive,text
+0.8402,0.0,0.824,0.176,"TikTok is all fun and memes, until it isnt. On Friday (Nov. 1), Reuters reported that the US government opened a probe into the merger that effectively landed the Chinese-owned app in the United States, the $1 billion acquisition of the American app Musical.l… [+5388 chars]"
+0.9153,0.0,0.739,0.261,"TikToks ascension has been swift thanks to hefty word of mouth and strong marketing muscle from its Chinese parent company, ByteDance. It might also have something to do with the fact that, as a fun, short-form-video-based social network, it feels like Vine (… [+4495 chars]"
+0.5883,0.054,0.791,0.154,"Short-form video app TikTok cant shake an air of suspicion that surrounds it in the United States. On Thursday, Senate Democratic Leader Chuck Schumer and Republican Senator Tom Cotton announced that they sent a letter to Director of National Intelligence Jos… [+9227 chars]"
+0.0,0.0,1.0,0.0,"Ambient assisted living system with privacy protection. This project is developed as a FYP, UoM, 2019."
+0.0878,0.045,0.903,0.052,"Social short music video app TikTok is on fire with 500 million monthly users, 66% of whom are under 30 years of age. But how to market music on Tik Tok remains a mystery for many. Frank Woodworth of Glacial Concepts unlocks why the platform works so well for… [+15619 chars]"
+0.8534,0.0,0.765,0.235,"You downloaded TikTok recently, didn't you? It's addicting, right?
+Well, have you graduated from casually scrolling the For You page and liking random TikToks to, maybe, wanting to create your own TikTok videos to share, privately or publically? Or, perhaps,… [+24202 chars]"
+-0.4019,0.066,0.934,0.0,"I am working on my FYP and using Pymongo to retrieve data from the MongoDB. I am facing some problems during fetching images from the chunks. Here is the code to retrieve stored images.
+def get_file_object(file_id):
+ out = fs.get(file_id).read()
+ base64_da… [+444 chars]"
