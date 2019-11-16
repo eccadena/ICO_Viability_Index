@@ -1,5 +1,24 @@
+import tweepy
+import nltk
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
+import re
+from collections import Counter
+import os
+from urllib.request import Request, urlopen as Ureq
+import urllib.request
+import requests
+import PyPDF2
+
+consumer_key = os.getenv("TWITTER_PUBLIC_API")
+consumer_secret = os.getenv("TWITTER_SECRET_KEY")
 nltk.download('vader_lexicon')
+base_url = 'https://whitepaperdatabase.com/?s='
+pdf_url = 'https://whitepaperdatabase.com/wp-content/uploads/2018/03/Augur-REP-Whitepaper.pdf'
+
+
 
 # Functions for Sent Analysis        
         
@@ -68,6 +87,7 @@ def twitter_df_score(df, N):
     Scores an entire Dataframe of coins based on the last 'N' tweets.  Returns a dataframe of scores with a 
     '''
     scores = []
+    df2 = pd.DataFrame()
     for name in df.Name:
         search_term = '#' + str(name)
         print(f"Searching and Scoring {search_term}")
@@ -87,6 +107,45 @@ def twitter_df_score(df, N):
     for item in scores:
         df1=pd.DataFrame.from_dict(item).T
         df2 = pd.concat([df1,df2], sort = True)
-#    ndf = pd.concat([df, df2])
 
     return df2
+    
+def base_page(base_url, term):
+    new_url = base_url + term
+    uClient = Ureq(new_url)
+    raw_content = uClient.read()
+    uClient.close()
+    page_soup = soup(raw_content)
+    return page_soup
+
+def get_paper_url(soup):
+    containers = soup.findAll("a")
+    url = containers[8]['href']
+    return url
+
+def get_pdf_link(paper_url):
+    uClient = Ureq(paper_url)
+    raw_content = uClient.read()
+    uClient.close()
+    page_soup = soup(raw_content)
+    pdf_link = page_soup.findAll("a", {"class":"pdfemb-viewer"})
+    return pdf_link[0]['href']
+
+def get_pdf(ticker, pdf_link):
+    filename = '../../data/whitepapers/' + ticker + '_whitepaper.pdf'
+    urllib.request.urlretrieve(pdf_link, filename)
+
+def read_pdf(ticker):
+    corpus = ''
+    filename = '../../data/whitepapers/' + ticker + '_whitepaper.pdf'
+    pdf_obj = open(filename, 'rb')
+    pdfReader = PyPDF2.PdfFileReader(pdf_obj)
+    pages = pdfReader.numPages
+    for i in range(pages):
+        raw_text = pdfReader.getPage(i)
+        corpus = corpus + raw_text.extractText()
+    return corpus
+def check_sent(corpus):
+    analyzer = SentimentIntensityAnalyzer()
+    sentiment = analyzer.polarity_scores(corpus)
+    return sentiment
