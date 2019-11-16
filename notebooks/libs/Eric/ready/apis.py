@@ -23,7 +23,7 @@ def get_TrackICOAPI(P):
     '''
     
     ICO_df = pd.DataFrame()
-    for i in range(0,P):
+    for i in range(1,P+1):
         time.sleep(1)
             
         response = requests.get(f"https://api.trackico.io/v1/icos/all/?page={i+1}&page_size=24")
