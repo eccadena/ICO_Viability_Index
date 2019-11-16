@@ -1,0 +1,26 @@
+from apis import ICO_data
+
+ico= ICO_data()
+ico_df = ico.preprocess_data()
+print(ico_df.head())
+
+#Insert function to call df2
+
+
+#OR create 1 function to call both df and concat them
+
+
+
+#Insert call to add cmc info to add to df
+
+#Insert twitter sent info to add to df
+
+#Insert news sent info to add to df
+
+#Insert functions to prep df for forrest
+
+#RF Model
+
+#Insert function to call dashboard
+
+#Call dashboard and execute functions
