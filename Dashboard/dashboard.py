@@ -1,6 +1,7 @@
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
+from dash.dependencies import Input, Output
 import pandas as pd
 from pathlib import Path
 
@@ -18,30 +19,6 @@ def generate_table(dataframe, max_rows=100):
             html.Td(dataframe.iloc[i][col]) for col in dataframe.columns
         ]) for i in range(min(len(dataframe), max_rows))]
     )
-
-def render_content(tab):
-    if tab == 'tab-1-example':
-        return html.Div([
-            html.H3('Tab content 1'),
-            dcc.Graph(
-                id='graph-1-tabs',
-                generate_table(df)
-            )
-        ])
-    elif tab == 'tab-2-example':
-        return html.Div([
-            html.H3('Tab content 2'),
-            dcc.Graph(
-                id='graph-2-tabs',
-                figure={
-                    'data': [{
-                        'x': [1, 2, 3],
-                        'y': [5, 10, 6],
-                        'type': 'bar'
-                    }]
-                }
-            )
-        ])
 
 external_stylesheets = [r'C:\Users\marcl\Documents\fintech\ICO_Viability_Index\Dashboard\assets\style.css']
 
@@ -61,7 +38,26 @@ app.layout = html.Div(children=[
 @app.callback(Output('tabs-content-example', 'children'),
               [Input('tabs-example', 'value')])
 
-
+def render_content(tab):
+    if tab == 'tab-1-example':
+        return html.Div([
+            html.H3('Tab content 1'),
+            generate_table(df)
+        ])
+    elif tab == 'tab-2-example':
+        return html.Div([
+            html.H3('Tab content 2'),
+            dcc.Graph(
+                id='graph-2-tabs',
+                figure={
+                    'data': [{
+                        'x': [1, 2, 3],
+                        'y': [5, 10, 6],
+                        'type': 'bar'
+                    }]
+                }
+            )
+        ])
 
 if __name__ == '__main__':
     app.run_server(debug=True)
