@@ -1,8 +1,14 @@
+#call CMC datafram
+import pandas as pd
+
+cmc_df = pd.read_csv("CMC_df.csv")
+print(cmc_df.head())
+
 #Insert function to call df2
 
 from apis import get_TrackICOAPI
 
-track_df = get_TrackICOAPI()
+track_df = get_TrackICOAPI(10)
 print(track_df.head())
 
 

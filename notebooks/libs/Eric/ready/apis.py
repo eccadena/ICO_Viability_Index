@@ -13,17 +13,17 @@ import requests
 
 #Functions for ICO Watch API
 
-def get_TrackICOAPI():
+def get_TrackICOAPI(P):
     '''
     Function that calls 4,000 cryptos (ICO and IEO) and  from TrackICO. All features included.
     Tickers as index.
     Features = ['title', 'type', 'ticker', 'rating', 'status', 'country', 'platform', 'pre_ico_start', 'pre_ico_end', 'ico_start', 'ico_end']
     Returns df
-    No 
+    X is number of pages
     '''
     
     ICO_df = pd.DataFrame()
-    for i in range(0,10):
+    for i in range(0,P):
         time.sleep(1)
             
         response = requests.get(f"https://api.trackico.io/v1/icos/all/?page={i+1}&page_size=24")
