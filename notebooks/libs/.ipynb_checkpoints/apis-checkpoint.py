@@ -8,6 +8,8 @@ import tweepy
 import nltk
 import os
 from collections import Counter
+import time
+import requests
 
 consumer_key = os.getenv("TWITTER_PUBLIC_API")
 consumer_secret = os.getenv("TWITTER_SECRET_KEY")
@@ -139,15 +141,11 @@ def get_TrackICOAPI():
         response = requests.get(f"https://api.trackico.io/v1/icos/all/?page={i+1}&page_size=24")
         response = response.json()
         
-        print(f'Checking page{i+1}')
-        
         for coin in response['results']:
             
             result = pd.DataFrame.from_dict(response['results'])
 
             ICO_df = pd.concat([result,ICO_df])
-            
-            print('Joining Dataframe')
             
     ICO_df.drop(['slug','id','category','profile_url','logo_url','short_description'], axis=1, inplace=True)
     ICO_df.reset_index(drop=True, inplace = True)
@@ -157,7 +155,7 @@ def get_TrackICOAPI():
 
     ICO_df = ICO_df.drop_duplicates() 
     
-    ICO_df.replace(to_replace=[None], value=ICO_API_df['ico_end'][0], inplace=True)
+    ICO_df.replace(to_replace=[None], value=ICO_df['ico_end'][0], inplace=True)
     
     ICO_df['End'] = ICO_df['ico_end'].apply(lambda x: dt.strptime(x, '%Y-%m-%dT%H:%M:%SZ'))
     ICO_df['Start'] = ICO_df['ico_start'].apply(lambda x: dt.strptime(x, '%Y-%m-%dT%H:%M:%SZ'))

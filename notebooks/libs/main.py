@@ -8,8 +8,7 @@ print(ico_df.head())
 
 from apis import get_TrackICOAPI
 
-track = get_TrackICOAPI()
-track_df = track.preprocess_data()
+track_df = get_TrackICOAPI()
 print(track_df.head())
 
 
