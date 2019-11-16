@@ -1,9 +1,3 @@
-from apis import ICO_data
-
-ico= ICO_data()
-ico_df = ico.preprocess_data()
-print(ico_df.head())
-
 #Insert function to call df2
 
 from apis import get_TrackICOAPI
