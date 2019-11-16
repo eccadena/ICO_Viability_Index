@@ -6,6 +6,11 @@ print(ico_df.head())
 
 #Insert function to call df2
 
+from apis import get_TrackICOAPI
+
+track = get_TrackICOAPI()
+track_df = track.preprocess_data()
+print(track_df.head())
 
 
 #OR create 1 function to call both df and concat them
@@ -27,7 +32,6 @@ print(ico_df.head())
 
 
 #PCA
-
 
 
 #NN
