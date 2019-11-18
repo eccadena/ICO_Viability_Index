@@ -39,6 +39,27 @@ def token_count(tokens, N=10):
     """Returns the top N tokens from the frequency count"""
     return Counter(tokens).most_common(N)
 
+def get_tweets_list(topic_of_tweet, num_of_tweets):
+    '''
+    Returns a dataframe of the most recent 'N' tweets from Twitter tokenized and counted.
+    
+    Arguements: `topic_of_tweet` : str; what hashtag is being searched 
+                'num_of_tweets' : int; how many tweet do you want returned
+    '''
+    text,time, word_list, word_count=[],[],[],[]
+    auth = tweepy.AppAuthHandler(consumer_key, consumer_secret)
+    api = tweepy.API(auth)
+    for tweet in tweepy.Cursor(api.search, q=topic_of_tweet, tweet_mode='extended').items(num_of_tweets):
+        text.append(tweet.full_text),
+        time.append(tweet.created_at)
+    tweets_df = pd.DataFrame({'Tweet':text}, index=time)
+    [word_list.append(tokenizer(text)) for text in tweets_df.Tweet]
+    tweets_df['Tokens'] = word_list
+    [word_count.append(token_count(token)) for token in tweets_df.Tokens]
+    tweets_df['Word_Count'] = word_count
+    
+    return tweets_df
+
 def twitter_sent_analysis(tweet_df):    
     tweet_sentiments, comp, pos, neg, neu = [],[],[],[],[]
     analyzer = SentimentIntensityAnalyzer()
