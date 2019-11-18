@@ -1,3 +1,0 @@
-## PCA Observation
-
-Using PCA...
