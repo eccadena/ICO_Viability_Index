@@ -7,7 +7,8 @@ import pandas as pd
 from pathlib import Path
 
 
-path = Path('..\data\cleandata\success_NN_1H_df.csv')
+
+path = Path('../data/cleandata/Final_df.csv')
 df = pd.read_csv(path)
 
 external_stylesheets = ['.\assets\style.css']
@@ -43,11 +44,11 @@ app.layout = html.Div([
         },
         columns=[{"name": i, "id": i} for i in df.columns],
         data=df.to_dict("rows"),
-        hidden_columns=['pct1h', 'pct24h', 'pct7d', 
-            'pre_ico_end', 'pre_ico_start', 'Name_y', 
-            'type', 'End', 'Start', 'Duration', 'pre_Duration',
-            'compound', 'negative', 'neutral', 'positive', 'no_of_posts',
-            'longevity', 'custom_index', 'custom_index_scaled', 'success_index',
+        hidden_columns=['Pct 1h', 'Pct 24h', 'Pct 7d', 
+            'Pre Ico End Date', 'Pre Ico Start', 'Name_y', 
+            'Type', 'ICO End', 'ICO Start', 'ICO Duration', 'Pre ICO Duration',
+            'Sentiment Compound', 'Sentiment negative', 'Sentiment neutral', 'Sentiment positive', '# of Media Post',
+            'Longevity of Project', 'custom_index', 'custom_index_scaled', 
             'success_PCA', 'predicted_NN']
         
     ),
@@ -84,8 +85,8 @@ def update_graphs(rows, derived_virtual_selected_rows):
             figure={
                 "data": [
                     {
-                        "x": dff["country"],
-                        "y": dff["market_cap"],
+                        "x": dff["Country"],
+                        "y": dff["Market Cap"],
                         "type": "bar",
                         "marker": {"color": colors},
                     }
@@ -106,31 +107,30 @@ def update_graphs(rows, derived_virtual_selected_rows):
         ),
 
         dcc.Graph(
-            id="market cap by rating",
+            id="ICO Success Rating by Longevity",
             figure={
                 "data": [
                     {
-                        "x": dff["rating"],
-                        "y": dff["market_cap"],
+                        "y": dff["Success Index"],
+                        "x": dff["Longevity of Project"],
                         "type": "bar",
                         "marker": {"color": colors},
                     }
                 ],
                 "layout": {
-                    "xaxis": {
-                        "automargin": True,
-                        "title": {"text": "Rating"}
-                    },
                     "yaxis": {
                         "automargin": True,
-                        "title": {"text": "Market Cap"}
+                        "title": {"text": "Success Index"}
+                    },
+                    "xaxis": {
+                        "automargin": True,
+                        "title": {"text": "Longevity of Project (Days)"}
                     },
                     "height": 250,
                     "margin": {"t": 10, "l": 10, "r": 10},
                 },
             },
-        )
- 
+        ),
     ]
 
 
