@@ -7,10 +7,10 @@ import pandas as pd
 from pathlib import Path
 
 
-path = Path(r'C:\Users\marcl\Documents\fintech\ICO_Viability_Index\data\cleandata\success_NN_1H_df.csv')
+path = Path('..\data\cleandata\success_NN_1H_df.csv')
 df = pd.read_csv(path)
 
-external_stylesheets = [r'C:\Users\marcl\Documents\fintech\ICO_Viability_Index\Dashboard\assets\style.css']
+external_stylesheets = ['.\assets\style.css']
 
 app = dash.Dash(__name__)
 
