@@ -2,7 +2,7 @@
 Analyzing various successful and unsuccessful ICOs for predictive success features.
 
 
-# Class 2 - Pseudocode and status update
+# Original Brainstorming Ideas
 After initial weekend of research and data gathering, the team has worked out feasibility of project and agrees to a minimal viable product as described below.
 1. Is a dashboard - single page that is accessible to general public or clients.
 2. End user is a person not exactly super knowledgeable in cypto looking to get into investments in new coins, and needs guidance on what to look at more closely and what to absolutely avoid.  
@@ -45,6 +45,19 @@ After initial weekend of research and data gathering, the team has worked out fe
 6. Creating the model .... *this needs to be pseudocoded*
     - Random forrest to help us determine features that are important?
 
-7. Create the dashboard (marc to start working on this)
+7. Create the dashboard
+
+# Limitations
+After testing various API's to gather data, it became apparent that the most meaningful data required investment. As a result, sentiment analysis was done only on current periods to use as a proxy of what could be done at the time of an ICO launch. Furthermore, a lot of data needed to be collected manually, which wasn't attainable in the time alloted.
+
+Determining post ICO success was also a sticking point. What is a successful ICO? We ultimately went with the simplest idea that a coin/token that was still actively trading counted as a success. A ratio of the price over the recipricole of longevitiy would result in an idex that would be higher for all coins/tokens with longer lifespans. Any score above the mean was marked as 1 (Successful); below the mean 0 (Unsuccessful).
+
+# Final Model
+The final set of features that went into our neural net were: Country, Platform, News Sentiments, and Twitter Sentiments. Using a series of nested for loops, we tested all parameters of the neural net to find the best combination for the highest accuracy. The final dataset used for the train/test portion of the model was on ICO's older than 360 days. Various iterations of the model resulted in an accuracy of at least 90%.
+
+# Final Conclusions
+Though the model showed high accuracy, when used to predict on the dataset of ICO's less than 360 days, all ICO's were predicted to be successful. It's unclear as to why this might be the case. If given more time, we definitely would have liked to pursue further investigation and also run a random forest or PCA to see which components were the most impactful.
+
+# Dashboard
 
 
